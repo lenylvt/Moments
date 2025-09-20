@@ -12,8 +12,15 @@ class MomentsFetcher:
     def __init__(self):
         self.base_url = "https://moments.youversionapi.com/3.1/items.json"
         self.user_id = "224177359"
-        self.moments_file = "../moments.json"  # Place JSON at project root
-        self.last_update_file = "../last_update.txt"  # For backward compatibility
+        
+        # Auto-detect path: if running from scripts/ dir, go up one level; otherwise use current dir
+        if os.path.basename(os.getcwd()) == 'scripts':
+            self.moments_file = "../moments.json"  # From scripts/ directory
+            self.last_update_file = "../last_update.txt"
+        else:
+            self.moments_file = "moments.json"  # From root directory (GitHub Actions)
+            self.last_update_file = "last_update.txt"
+            
         self.existing_moments = []
         self.last_note_date = None
         

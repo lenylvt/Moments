@@ -4,6 +4,7 @@ Script to fill Bible verse texts in the moments.json file
 Uses the Bible API to fetch verse texts
 """
 import json
+import os
 import requests
 import re
 import time
@@ -11,7 +12,12 @@ from typing import Dict, List
 
 class BibleTextFiller:
     def __init__(self):
-        self.moments_file = "../moments.json"
+        # Auto-detect path: if running from scripts/ dir, go up one level; otherwise use current dir
+        if os.path.basename(os.getcwd()) == 'scripts':
+            self.moments_file = "../moments.json"  # From scripts/ directory
+        else:
+            self.moments_file = "moments.json"  # From root directory (GitHub Actions)
+            
         # Using Fetch Bible API with French SBL translation
         self.bible_api_base = "https://v1.fetch.bible/bibles/fra_sbl"
         
