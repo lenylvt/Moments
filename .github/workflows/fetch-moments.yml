@@ -1,0 +1,41 @@
+name: Fetch YouVersion Moments
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  fetch-moments:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Run moments fetcher
+      run: python scripts/fetch_moments.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add moments.json
+        if ! git diff --cached --exit-code > /dev/null; then
+          git commit -m "Update moments data $(date)"
+          git push
+        else
+          echo "No changes to commit"
+        fi
