@@ -23,18 +23,25 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install -r requirements.txt
         
-    - name: Run moments fetcher
-      run: python scripts/fetch_moments.py
-      
+    - name: Create .env file with secrets
+      run: |
+        echo "ONEMIN_AI_API_KEY=${{ secrets.ONEMIN_AI_API_KEY }}" > .env
+        echo "YOUVERSION_BEARER_TOKEN=${{ secrets.YOUVERSION_BEARER_TOKEN }}" >> .env
+        
+    - name: Run complete moments pipeline
+      run: |
+        cd scripts
+        python fetch_moments.py  # This now includes Bible texts and AI tags
+        
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add moments.json
         if ! git diff --cached --exit-code > /dev/null; then
-          git commit -m "Update moments data $(date)"
+          git commit -m "Update moments $(date)"
           git push
         else
           echo "No changes to commit"
