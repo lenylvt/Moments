@@ -7,9 +7,13 @@ import requests
 from datetime import datetime, timezone
 import os
 from typing import Dict, List, Any, Optional
+from dotenv import load_dotenv
 
 class MomentsFetcher:
     def __init__(self):
+        # Load environment variables
+        load_dotenv()
+        
         self.base_url = "https://moments.youversionapi.com/3.1/items.json"
         self.user_id = "224177359"
         
@@ -24,11 +28,16 @@ class MomentsFetcher:
         self.existing_moments = []
         self.last_note_date = None
         
+        # Get bearer token from environment variable
+        bearer_token = os.getenv('YOUVERSION_BEARER_TOKEN')
+        if not bearer_token:
+            raise ValueError("YOUVERSION_BEARER_TOKEN environment variable is required")
+        
         # Headers required for API authentication
         self.headers = {
             'Accept': '*/*',
             'Accept-Language': 'fr-FR,fr;q=0.9',
-            'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiI4NzUzNWFlODg0N2JjMzM5YWI0NzRmYjBhODI2OTBiNSIsImV4cCI6MTc1OTA5NDk1OSwiaWF0IjoxNzU4MjMwOTU5LCJzdWIiOiIyMjQxNzczNTkifQ.G9I_Rs8f8MUkVcCJd-2HdE80TDwvTim3A3Ubz7_co64',
+            'Authorization': f'Bearer {bearer_token}',
             'Connection': 'keep-alive',
             'Host': 'moments.youversionapi.com',
             'Referer': 'https://ios.youversionapi.com',
@@ -63,29 +72,41 @@ class MomentsFetcher:
             except Exception as e:
                 print(f"Error loading last update date: {e}")
             
-    def fetch_moments_page(self, page: int) -> Optional[Dict]:
-        """Fetch a single page of moments"""
+    def fetch_moments_page(self, page: int = 1) -> Dict:
+        """Fetch a specific page of moments from YouVersion API"""
         params = {
             'only_color': 'false',
-            'page': str(page),
+            'page': page,
             'user_id': self.user_id
         }
         
         try:
-            print(f"Fetching page {page}...")
-            response = requests.get(self.base_url, params=params, headers=self.headers, timeout=30)
+            # Disable SSL verification for this specific API due to certificate issues
+            response = requests.get(
+                self.base_url, 
+                headers=self.headers, 
+                params=params, 
+                timeout=30,
+                verify=False  # Disable SSL verification
+            )
             response.raise_for_status()
             return response.json()
-        except requests.exceptions.HTTPError as e:
-            if response.status_code in [401, 403]:
-                print(f"🔒 Authentication error (status {response.status_code}): The Bearer token may have expired.")
-                print("Please update the token using: python update_token.py \"your_new_token\"")
-            else:
-                print(f"HTTP Error fetching page {page}: {e}")
-            return None
-        except requests.exceptions.RequestException as e:
+        except requests.exceptions.SSLError as e:
+            print(f"SSL Error on page {page}: {e}")
+            print("Trying with SSL verification disabled...")
+            # Fallback with SSL disabled
+            response = requests.get(
+                self.base_url, 
+                headers=self.headers, 
+                params=params, 
+                timeout=30,
+                verify=False
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.RequestException as e:
             print(f"Error fetching page {page}: {e}")
-            return None
+            return {}
             
     def fetch_verse_text(self, usfm: str, version_id: int = 133) -> Optional[str]:
         """Fetch Bible verse text from YouVersion API - currently disabled due to API limitations"""
@@ -267,6 +288,15 @@ class MomentsFetcher:
                 bible_filler.fill_bible_texts()
             except Exception as e:
                 print(f"Error filling Bible texts: {e}")
+                
+            # Generate AI tags for new moments
+            print("\n🏷️  Generating AI tags for moments...")
+            try:
+                from generate_tags import TagsGenerator
+                tags_generator = TagsGenerator()
+                tags_generator.run()
+            except Exception as e:
+                print(f"Error generating tags: {e}")
         else:
             print("No new moments found")
             # Still update the data file to show last check time

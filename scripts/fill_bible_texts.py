@@ -12,6 +12,7 @@ from typing import Dict, List
 
 class BibleTextFiller:
     def __init__(self):
+
         # Auto-detect path: if running from scripts/ dir, go up one level; otherwise use current dir
         if os.path.basename(os.getcwd()) == 'scripts':
             self.moments_file = "../moments.json"  # From scripts/ directory

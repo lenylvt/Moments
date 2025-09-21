@@ -1,107 +1,193 @@
-# YouVersion Moments Fetcher
+# YouVersion Moments avec Tags IA
 
-Ce projet récupère automatiquement vos moments (notes) depuis l'API YouVersion et les sauvegarde dans un fichier JSON.
+Ce projet récupère automatiquement vos moments (notes) depuis l'API YouVersion, remplit les textes bibliques, et génère des tags intelligents via IA.
 
-## Fonctionnalités
+## 🚀 Fonctionnalités
 
-- 🕐 Exécution automatique quotidienne à minuit UTC via GitHub Actions
-- 📝 Filtrage automatique des notes (`kind_id: "note.v1"`) et highlights (`kind_id: "highlight.v1"`)
-- 📄 Sauvegarde au format JSON avec les champs demandés :
-  - `content` : Le contenu de la note/highlight
-  - `color` : La couleur associée
-  - `references` : Les références bibliques
-  - `tag` : Champ de tag (actuellement vide)
-- 🔄 Gestion de la pagination pour récupérer toutes les notes et highlights
-- 📅 Suivi de la date de dernière note pour éviter les doublons
-- 🎨 Liste des couleurs utilisées dans les moments
-- 🚀 Push automatique vers le repository GitHub
+- � **Récupération automatique** des moments YouVersion via API
+- � **Textes bibliques** automatiquement récupérés et ajoutés
+- 🏷️ **Tags IA** générés via l'API 1min.ai avec 42 tags prédéfinis
+- 🕐 **Exécution automatique** quotidienne via GitHub Actions
+- � **Sécurisé** avec variables d'environnement pour les clés API
+- 📄 **Format JSON** structuré et optimisé
 
-## Structure du projet
+## 📁 Structure du projet
 
 ```
 .
 ├── .github/workflows/
 │   └── fetch-moments.yml    # GitHub Action workflow
 ├── scripts/
-│   └── fetch_moments.py     # Script Python principal
-├── moments.json            # Fichier de données généré
-├── last_update.txt         # Date de dernière mise à jour
-└── README.md              # Ce fichier
+│   ├── fetch_moments.py     # Script principal de récupération
+│   ├── fill_bible_texts.py # Remplissage des textes bibliques
+│   └── generate_tags.py     # Génération des tags IA
+├── .env.example            # Exemple de configuration
+├── .env                    # Configuration (non versionnée)
+├── requirements.txt        # Dépendances Python
+├── moments.json           # Données générées
+└── README.md             # Ce fichier
 ```
 
-## Configuration
+## ⚙️ Configuration
 
-Le script est configuré pour l'utilisateur ID `224177359`. Pour changer d'utilisateur, modifiez la variable `user_id` dans `scripts/fetch_moments.py`.
+### 1. Variables d'environnement
 
-⚠️ **Important** : Le script utilise un token d'authentification Bearer dans les en-têtes. Ce token a une durée de validité limitée et devra être mis à jour périodiquement. Si vous obtenez une erreur 401 ou 403, vérifiez et mettez à jour le token dans la variable `headers['Authorization']` du script.
+Copiez `.env.example` vers `.env` et remplissez les valeurs :
 
-## Exécution manuelle
+```bash
+cp .env.example .env
+```
 
-Pour tester le script localement :
+Variables requises :
+- `ONEMIN_AI_API_KEY` : Clé API pour 1min.ai (génération de tags)
+- `YOUVERSION_BEARER_TOKEN` : Token d'authentification YouVersion
+- `BIBLE_API_BEARER_TOKEN` : Token pour l'API Bible (si nécessaire)
+
+### 2. Installation des dépendances
+
+```bash
+pip install -r requirements.txt
+```
+
+## 🎯 Tags disponibles (42 tags)
+
+Le système utilise 42 tags prédéfinis pour catégoriser les moments :
+
+**Spiritualité :** `priere`, `discipulat`, `obeissance`, `esperance`, `gratitude`, `pardon`, `perseverance`
+
+**Défis personnels :** `courage`, `tentation`, `humilite`, `colere`, `orgueil`, `convoitise`, `jalousie`
+
+**Relations :** `famille`, `mariage`, `amitie`, `conflit`, `trahison`, `service`, `autorite`
+
+**Sagesse :** `paroles`, `discernement`, `discipline`, `mensonge`, `hypocrisie`, `fausseDoctrine`
+
+**Société :** `richesse`, `travail`, `justice`, `pauvres`, `persecution`, `ivresse`
+
+**Épreuves :** `maladie`, `solitude`, `mort`, `avenir`, `vaincreMal`, `esperer`
+
+**Créat. & Corp :** `creation`, `organe`, `sexualite`, `idolatrie`
+
+## 🔄 Utilisation
+
+### Exécution manuelle complète
 
 ```bash
 cd scripts
+python fetch_moments.py  # Récupère + textes bibliques + tags IA
+```
+
+### Exécution par étapes
+
+```bash
+# 1. Récupération des moments seulement
+cd scripts  
 python fetch_moments.py
+
+# 2. Ajout des textes bibliques
+python fill_bible_texts.py
+
+# 3. Génération des tags IA
+python generate_tags.py
 ```
 
-### Mise à jour du token d'authentification
+## 📊 Format des données
 
-Si le token expire (erreur 401/403), utilisez le script de mise à jour :
-
-```bash
-cd scripts
-python update_token.py "votre_nouveau_token_bearer"
-```
-
-Pour obtenir un nouveau token, inspectez les requêtes réseau dans l'app YouVersion et copiez le Bearer token de l'en-tête `Authorization`.
-
-## Format des données
-
-Le fichier `moments.json` généré contient :
+### Structure JSON générée
 
 ```json
 {
   "moments": [
     {
-      "content": "ne provoquons pas Dieu...",
-      "color": "ffc66f",
+      "content": "Seigneur, aide-moi à avoir confiance en toi...",
+      "color": "#4ECDC4",
       "references": [
         {
-          "usfm": ["MAT.4.7"],
+          "usfm": [1130023001],
           "version_id": 133,
-          "human": "Matthieu 4:7"
+          "human": "Proverbes 3:5",
+          "human_text": "Confie-toi en l'Éternel de tout ton cœur..."
         }
       ],
-      "tag": ""
+      "tag": ["priere", "confiance"]
     }
   ],
-  "last_updated": "2025-09-20T00:00:00+00:00",
-  "last_update": "2025-08-26T15:09:17.304000+00:00",
-  "total_moments": 1,
-  "colors_used": ["ffc66f", "ff95ef", "beffaa"]
+  "last_updated": "2025-09-21T12:00:00Z",
+  "last_update": "2025-09-21T08:15:30Z",
+  "total_moments": 125,
+  "colors_used": ["#4ECDC4", "#FF6B6B", "#96CEB4"],
+  "tags_used": ["priere", "courage", "gratitude"],
+  "total_tags_available": 42,
+  "last_tag_update": "2025-09-21T12:00:00Z"
 }
 ```
 
-### Explication des champs
+### Champs expliqués
 
-- **moments** : Liste des moments/notes récupérés (triés par date décroissante, plus récents en premier)
-  - `content` : Le contenu de la note/highlight
-  - `color` : La couleur hexadécimale associée
-  - `references` : Les références bibliques avec format USFM et texte lisible
-  - `tag` : Champ de tag (actuellement vide)
-- **last_updated** : Horodatage de la dernière exécution du script  
-- **last_update** : Date de création de la dernière note récupérée (utilisée pour éviter les doublons)
-- **total_moments** : Nombre total de moments dans le fichier
-- **colors_used** : Liste des couleurs hexadécimales utilisées dans les moments
+- **moments** : Liste des moments (plus récents en premier)
+  - `content` : Contenu de la note/highlight
+  - `color` : Couleur hexadécimale
+  - `references` : Références bibliques avec texte complet
+  - `tag` : Liste des tags IA (max 2, préférence 1)
+- **Métadonnées** : Statistiques et dates de mise à jour
+- **tags_used** : Liste des tags utilisés dans cette session
+- **total_tags_available** : Nombre total de tags prédéfinis (42)
 
-## GitHub Action
+## 🤖 IA et Tags
 
-L'action s'exécute automatiquement :
-- ⏰ Quotidiennement à minuit UTC
-- 🔧 Peut être déclenchée manuellement via l'interface GitHub
-- 📤 Commit et push automatique des changements
+### Fonctionnement
 
-## Permissions requises
+1. **Analyse du contenu** : L'IA analyse le moment + texte biblique
+2. **Sélection intelligente** : Choix parmi les 42 tags prédéfinis uniquement
+3. **Préférence qualité** : 1 tag précis > 2 tags moins pertinents
+4. **Validation** : Vérification que les tags existent dans la liste
 
-La GitHub Action nécessite les permissions :
-- `contents: write` pour pouvoir pousser les modifications
+### Première exécution
+
+Au premier run, le système :
+- Affiche tous les tags disponibles
+- Les sauvegarde dans le JSON pour référence
+- Génère les tags pour tous les moments
+
+## 🔧 GitHub Actions
+
+### Configuration secrets
+
+Ajoutez dans les secrets du repository :
+- `ONEMIN_AI_API_KEY`
+- `YOUVERSION_BEARER_TOKEN` 
+- `BIBLE_API_BEARER_TOKEN`
+
+### Workflow automatique
+
+- ⏰ Exécution quotidienne à minuit UTC
+- 🔧 Déclenchement manuel possible
+- 📤 Commit automatique des changements
+- 🏷️ Génération complète : moments → textes → tags
+
+## 🔐 Sécurité
+
+- ✅ Clés API externalisées dans `.env`
+- ✅ `.env` exclu du versioning
+- ✅ Variables d'environnement pour GitHub Actions
+- ✅ Validation des tokens avant utilisation
+
+## 🛠️ Maintenance
+
+### Mise à jour des tokens
+
+Si erreur 401/403, mettez à jour les tokens dans :
+- Fichier `.env` (local)
+- Secrets GitHub Actions (production)
+
+### Ajout de nouveaux tags
+
+Pour ajouter des tags, modifiez la liste `predefined_tags` dans `scripts/generate_tags.py`.
+
+## 📝 Logs et Debug
+
+Le système affiche :
+- ✅ Moments récupérés et traités
+- 📖 Textes bibliques ajoutés  
+- 🏷️ Tags générés par l'IA
+- ⚠️ Erreurs et avertissements
+- 📊 Statistiques finales
