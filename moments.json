@@ -144,21 +144,6 @@
       "tag": ""
     },
     {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "PSA.37.24"
-          ],
-          "version_id": 133,
-          "human": "Psaumes 37:24",
-          "human_text": "S'il trébuche, il ne tombera pas, car Yahvé le retient de sa main"
-        }
-      ],
-      "tag": ""
-    },
-    {
       "content": "n’ayons pas peur de tomber, le Seigneur ne nous laisserait pas.",
       "color": null,
       "references": [
@@ -169,21 +154,6 @@
           "version_id": 133,
           "human": "Psaumes 37:24",
           "human_text": "S'il trébuche, il ne tombera pas, car Yahvé le retient de sa main"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "ISA.41.10"
-          ],
-          "version_id": 133,
-          "human": "Ésaïe 41:10",
-          "human_text": "N'ayez pas peur, car je suis avec vous. Ne soyez pas consternés, car je suis votre Dieu. Je vais te renforcer. Oui, je vais vous aider. Oui, je te soutiendrai avec la main droite de ma justice"
         }
       ],
       "tag": ""
@@ -310,21 +280,6 @@
       "tag": ""
     },
     {
-      "content": "Amen 🙏",
-      "color": null,
-      "references": [
-        {
-          "usfm": [
-            "MAT.26.39"
-          ],
-          "version_id": 133,
-          "human": "Matthieu 26:39",
-          "human_text": "Il s'avança un peu, tomba sur sa face, et pria ainsi : « Mon Père, s'il est possible, que cette coupe passe loin de moi ; toutefois, ce n'est pas ce que je veux, mais ce que tu veux. »"
-        }
-      ],
-      "tag": ""
-    },
-    {
       "content": "aidons des que nous le pouvons, aider quelqu’un c’est pour Dieu sur nous le faisons.",
       "color": null,
       "references": [
@@ -340,36 +295,6 @@
       "tag": ""
     },
     {
-      "content": "Amen 🙏",
-      "color": null,
-      "references": [
-        {
-          "usfm": [
-            "PSA.27.14"
-          ],
-          "version_id": 133,
-          "human": "Psaumes 27:14",
-          "human_text": "Attendez Yahvé. Soyez fort, et laissez votre cœur prendre courage. Oui, attendez Yahvé"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "",
-      "color": "ffcaf7",
-      "references": [
-        {
-          "usfm": [
-            "PSA.27.14"
-          ],
-          "version_id": 133,
-          "human": "Psaumes 27:14",
-          "human_text": "Attendez Yahvé. Soyez fort, et laissez votre cœur prendre courage. Oui, attendez Yahvé"
-        }
-      ],
-      "tag": ""
-    },
-    {
       "content": "soyons juste, bon et fidèle.",
       "color": null,
       "references": [
@@ -380,22 +305,6 @@
           "version_id": 133,
           "human": "Matthieu 23:23",
           "human_text": "« Malheur à vous, scribes et pharisiens, hypocrites ! Car vous payez la dîme de la menthe, de l'aneth et du cumin, et vous avez négligé les choses les plus graves de la loi : la justice, la miséricorde et la foi. Or, vous auriez dû faire ces choses-là, et ne pas laisser les autres en suspens"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "MAT.21.21",
-            "MAT.21.22"
-          ],
-          "version_id": 133,
-          "human": "Matthieu 21:21-22",
-          "human_text": "Jésus leur répondit : « Je vous le dis en vérité, si vous avez la foi et ne doutez pas, non seulement vous ferez ce qui a été fait au figuier, mais même si vous disiez à cette montagne : « Prends-toi et jette-toi dans la mer », cela se ferait Tout ce que vous demanderez dans la prière, en croyant, vous le recevrez. »"
         }
       ],
       "tag": ""
@@ -428,29 +337,6 @@
           "version_id": 133,
           "human": "Matthieu 20:26-27",
           "human_text": "Il n'en sera pas ainsi au milieu de vous ; mais quiconque voudra devenir grand parmi vous sera votre serviteur Celui qui veut être le premier parmi vous sera votre esclave,"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "MAT.22.37"
-          ],
-          "version_id": 133,
-          "human": "Matthieu 22:37",
-          "human_text": "Jésus lui dit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta pensée »"
-        },
-        {
-          "usfm": [
-            "MAT.22.39"
-          ],
-          "version_id": 133,
-          "human": "Matthieu 22:39",
-          "human_text": "Un second commandement semblable est celui-ci : « Tu aimeras ton prochain comme toi-même »"
         }
       ],
       "tag": ""
@@ -533,51 +419,6 @@
       "tag": ""
     },
     {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "GAL.5.13"
-          ],
-          "version_id": 133,
-          "human": "Galates 5:13",
-          "human_text": "Car vous, frères, vous avez été appelés à la liberté. Seulement, n'usez pas de votre liberté comme d'une occasion pour la chair, mais, par amour, soyez serviteurs les uns des autres"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "MAT.14.31"
-          ],
-          "version_id": 133,
-          "human": "Matthieu 14:31",
-          "human_text": "Aussitôt, Jésus étendit la main, le saisit et lui dit : « Toi qui es de peu de foi, pourquoi as-tu douté ? »"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "PSA.133.1"
-          ],
-          "version_id": 133,
-          "human": "Psaumes 133:1",
-          "human_text": "Voyez comme c'est bon et agréable pour que les frères vivent ensemble dans l'unité !"
-        }
-      ],
-      "tag": ""
-    },
-    {
       "content": "soyons tous unis.",
       "color": "ffc66f",
       "references": [
@@ -650,21 +491,6 @@
           "version_id": 133,
           "human": "Matthieu 13:15",
           "human_text": "car le cœur de ce peuple est devenu insensible, leurs oreilles sont sourdes, et ils ont fermé leurs yeux ; ou alors ils pourraient peut-être percevoir avec leurs yeux, entendent avec leurs oreilles, comprennent avec leur cœur, et se tournerait à nouveau, et je les guérirais"
-        }
-      ],
-      "tag": ""
-    },
-    {
-      "content": "faisons la volonté de Dieu.",
-      "color": null,
-      "references": [
-        {
-          "usfm": [
-            "MAT.12.50"
-          ],
-          "version_id": 133,
-          "human": "Matthieu 12:50",
-          "human_text": "Car quiconque fait la volonté de mon Père qui est dans les cieux, celui-là est mon frère, et ma sœur, et ma mère. »"
         }
       ],
       "tag": ""
@@ -1706,13 +1532,12 @@
       "tag": ""
     }
   ],
-  "last_updated": "2025-09-20T19:40:05.737538+00:00",
+  "last_updated": "2025-09-21T01:47:47.036515+00:00",
   "last_update": "2025-09-20T10:33:45.853000+00:00",
-  "total_moments": 108,
+  "total_moments": 97,
   "colors_used": [
     "beffaa",
     "ff95ef",
-    "ffc66f",
-    "ffcaf7"
+    "ffc66f"
   ]
 }
