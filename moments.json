@@ -1,6 +1,24 @@
 {
   "moments": [
     {
+      "content": "croyons et cela sera possible.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.9.23"
+          ],
+          "version_id": 133,
+          "human": "Marc 9:23",
+          "human_text": "Jésus lui dit : « Si tu peux croire, tout est possible à celui qui croit. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "courage"
+      ]
+    },
+    {
       "content": "soyons toujours honnête. quoi qu’il arrive.",
       "color": null,
       "references": [
@@ -1189,7 +1207,9 @@
           "human_text": "Si vous vous contentez de saluer vos amis, que faites-vous de plus que les autres ? Les collecteurs d'impôts n' en font-ils pas autant ?"
         }
       ],
-      "tag": []
+      "tag": [
+        "amitie"
+      ]
     },
     {
       "content": "pas de vengeance.",
@@ -1279,7 +1299,10 @@
           "human_text": "C'est pourquoi, quiconque transgressera l'un de ces plus petits commandements et enseignera à d'autres à le faire, sera appelé le plus petit dans le Royaume des Cieux ; mais quiconque les mettra en pratique et les enseignera sera appelé grand dans le Royaume des Cieux"
         }
       ],
-      "tag": []
+      "tag": [
+        "autorite",
+        "obeissance"
+      ]
     },
     {
       "content": "soyons toujours heureux.",
@@ -1686,7 +1709,9 @@
           "human_text": "Jésus lui dit : « Je suis le chemin, la vérité et la vie. Personne ne vient au Père, si ce n'est par moi"
         }
       ],
-      "tag": []
+      "tag": [
+        "discernement"
+      ]
     },
     {
       "content": "si on tue, on sera tuer.",
@@ -1801,12 +1826,49 @@
       ]
     }
   ],
-  "last_updated": "2025-09-22T01:47:53.745816+00:00",
-  "last_update": "2025-09-21T08:22:27.537000+00:00",
-  "total_moments": 98,
+  "last_updated": "2025-09-23T01:38:46.428687+00:00",
+  "last_update": "2025-09-22T05:57:36.960000+00:00",
+  "total_moments": 99,
   "colors_used": [
     "beffaa",
     "ff95ef",
     "ffc66f"
-  ]
+  ],
+  "last_tag_update": "2025-09-23T01:38:53.879107+00:00",
+  "tags_used": [
+    "amitie",
+    "autorite",
+    "avenir",
+    "colere",
+    "conflit",
+    "convoitise",
+    "courage",
+    "creation",
+    "discernement",
+    "discipline",
+    "discipulat",
+    "esperance",
+    "gratitude",
+    "humilite",
+    "hypocrisie",
+    "idolatrie",
+    "jalousie",
+    "justice",
+    "maladie",
+    "mensonge",
+    "obeissance",
+    "pardon",
+    "paroles",
+    "pauvres",
+    "persecution",
+    "perseverance",
+    "priere",
+    "richesse",
+    "service",
+    "sexualite",
+    "solitude",
+    "tentation",
+    "travail"
+  ],
+  "total_tags_available": 43
 }
