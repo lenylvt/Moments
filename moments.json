@@ -1,6 +1,148 @@
 {
   "moments": [
     {
+      "content": "ce geste a pour but de dire que les Disciples ne leurs doivent rien, même pas la poussière des scandales.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.6.11"
+          ],
+          "version_id": 133,
+          "human": "Marc 6:11",
+          "human_text": "Si quelqu'un ne vous reçoit pas et ne vous écoute pas, secouez la poussière qui est sous vos pieds, en témoignage contre lui. En vérité, je vous le dis, au jour du jugement, Sodome et Gomorrhe seront plus tolérables que cette ville-là ! »"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "conflit"
+      ]
+    },
+    {
+      "content": "le respect des prophètes.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.6.4"
+          ],
+          "version_id": 133,
+          "human": "Marc 6:4",
+          "human_text": "Jésus leur dit : « Un prophète n'est pas sans honneur, si ce n'est dans son pays, parmi ses proches et dans sa maison. »"
+        }
+      ],
+      "tag": [
+        "autorite",
+        "hypocrisie"
+      ]
+    },
+    {
+      "content": "Talita Koum ! croyons et tout sera possible.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.5.36"
+          ],
+          "version_id": 133,
+          "human": "Marc 5:36",
+          "human_text": "Mais Jésus, ayant entendu le message prononcé, dit aussitôt au chef de la synagogue : « N'aie pas peur, crois seulement. »"
+        },
+        {
+          "usfm": [
+            "MRK.5.41"
+          ],
+          "version_id": 133,
+          "human": "Marc 5:41",
+          "human_text": "Prenant l'enfant par la main, il lui dit : « Talitha cumi ! », ce qui signifie, selon l'interprétation, « Fillette, je te le dis, lève-toi ! »"
+        }
+      ],
+      "tag": [
+        "courage",
+        "esperance"
+      ]
+    },
+    {
+      "content": "la foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.5.34"
+          ],
+          "version_id": 133,
+          "human": "Marc 5:34",
+          "human_text": "Il lui dit : « Ma fille, ta foi t'a guérie. Va en paix, et sois guérie de ta maladie. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "tout est possible, suffit d’avoir beaucoup de foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.4.39",
+            "MRK.4.40"
+          ],
+          "version_id": 133,
+          "human": "Marc 4:39-40",
+          "human_text": "Il se réveilla, menaça le vent, et dit à la mer : « Paix ! Sois tranquille ! » Le vent cessa et il y eut un grand calme Il leur dit : « Pourquoi avez-vous si peur ? Comment se fait-il que vous n'ayez pas la foi ? »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "il faut donner aux autres.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.4.24",
+            "MRK.4.25"
+          ],
+          "version_id": 133,
+          "human": "Marc 4:24-25",
+          "human_text": "Il leur dit : « Prenez garde à ce que vous entendez. Avec quelque mesure que vous mesuriez, on vous mesurera, et l'on donnera davantage à ceux qui entendent Car celui qui a, on lui donnera davantage ; et celui qui n'a pas, on lui enlèvera même ce qu'il a. »"
+        }
+      ],
+      "tag": [
+        "service"
+      ]
+    },
+    {
+      "content": "L’Histoire du Semeur.",
+      "color": "ff95ef",
+      "references": [
+        {
+          "usfm": [
+            "MRK.4.13",
+            "MRK.4.14",
+            "MRK.4.15",
+            "MRK.4.16",
+            "MRK.4.17",
+            "MRK.4.18",
+            "MRK.4.19",
+            "MRK.4.20"
+          ],
+          "version_id": 133,
+          "human": "Marc 4:13-20",
+          "human_text": "Il leur dit : « Ne comprenez-vous pas cette parabole ? Comment comprendrez-vous toutes les paraboles ? Le cultivateur sème la parole Ceux qui sont au bord du chemin sont ceux où la parole est semée ; et quand ils ont entendu, aussitôt Satan vient et enlève la parole qui a été semée en eux De même, ce sont ceux qui sont semés sur les rochers, qui, après avoir entendu la parole, la reçoivent aussitôt avec joie Ils n'ont pas de racines en eux-mêmes, mais ils sont éphémères. Quand l'oppression ou la persécution survient à cause de la parole, aussitôt ils chancellent D'autres sont ceux qui sont semés parmi les épines. Ce sont ceux qui ont entendu la parole, mais les soucis du siècle présent, la séduction des richesses, et les convoitises qui s'introduisent, étouffent la parole, et la rendent infructueuse Ceux qui ont été semés dans la bonne terre, ce sont ceux qui entendent la parole, la reçoivent et portent du fruit, les uns trente fois, les autres soixante fois, les autres cent fois. »"
+        }
+      ],
+      "tag": [
+        "paroles",
+        "convoitise"
+      ]
+    },
+    {
       "content": "croyons et cela sera possible.",
       "color": null,
       "references": [
@@ -1826,12 +1968,49 @@
       ]
     }
   ],
-  "last_updated": "2025-09-24T01:40:09.977952+00:00",
-  "last_update": "2025-09-22T05:57:36.960000+00:00",
-  "total_moments": 99,
+  "last_updated": "2025-09-25T01:40:48.565189+00:00",
+  "last_update": "2025-09-24T21:30:59.346000+00:00",
+  "total_moments": 106,
   "colors_used": [
     "beffaa",
     "ff95ef",
     "ffc66f"
-  ]
+  ],
+  "last_tag_update": "2025-09-25T01:41:10.581853+00:00",
+  "tags_used": [
+    "amitie",
+    "autorite",
+    "avenir",
+    "colere",
+    "conflit",
+    "convoitise",
+    "courage",
+    "creation",
+    "discernement",
+    "discipline",
+    "discipulat",
+    "esperance",
+    "gratitude",
+    "humilite",
+    "hypocrisie",
+    "idolatrie",
+    "jalousie",
+    "justice",
+    "maladie",
+    "mensonge",
+    "obeissance",
+    "pardon",
+    "paroles",
+    "pauvres",
+    "persecution",
+    "perseverance",
+    "priere",
+    "richesse",
+    "service",
+    "sexualite",
+    "solitude",
+    "tentation",
+    "travail"
+  ],
+  "total_tags_available": 43
 }
