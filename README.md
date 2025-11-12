@@ -16,11 +16,13 @@ Ce projet récupère automatiquement vos moments (notes) depuis l'API YouVersion
 ```
 .
 ├── .github/workflows/
-│   └── fetch-moments.yml    # GitHub Action workflow
+│   ├── fetch-moments.yml    # GitHub Action pour récupération quotidienne
+│   └── send-verse.yml       # GitHub Action pour envoi horaire de versets
 ├── scripts/
 │   ├── fetch_moments.py     # Script principal de récupération
 │   ├── fill_bible_texts.py # Remplissage des textes bibliques
-│   └── generate_tags.py     # Génération des tags IA
+│   ├── generate_tags.py     # Génération des tags IA
+│   └── send_verse.py        # Envoi de versets via ntfy
 ├── .env.example            # Exemple de configuration
 ├── .env                    # Configuration (non versionnée)
 ├── requirements.txt        # Dépendances Python
@@ -90,6 +92,23 @@ python fill_bible_texts.py
 python generate_tags.py
 ```
 
+### Envoi de versets via ntfy
+
+```bash
+# Envoi d'un verset aléatoire à ntfy.sh/verset
+cd scripts
+python send_verse.py
+
+# Test en mode dry-run (affiche sans envoyer)
+python send_verse.py --dry-run
+```
+
+**Note** : Le workflow GitHub Actions envoie automatiquement un verset toutes les heures de 7h à 19h UTC.
+Pour recevoir les notifications, abonnez-vous au topic "verset" sur ntfy :
+- Application mobile : https://ntfy.sh/verset
+- Web : https://ntfy.sh/verset
+- Ligne de commande : `ntfy subscribe verset`
+
 ## 📊 Format des données
 
 ### Structure JSON générée
@@ -157,12 +176,20 @@ Ajoutez dans les secrets du repository :
 - `YOUVERSION_BEARER_TOKEN` 
 - `BIBLE_API_BEARER_TOKEN`
 
-### Workflow automatique
+### Workflows automatiques
 
+#### 1. Fetch Moments (fetch-moments.yml)
 - ⏰ Exécution quotidienne à minuit UTC
 - 🔧 Déclenchement manuel possible
 - 📤 Commit automatique des changements
 - 🏷️ Génération complète : moments → textes → tags
+
+#### 2. Send Verse (send-verse.yml)
+- ⏰ Exécution **toutes les heures de 7h à 19h** (UTC)
+- 🔔 Envoie un verset aléatoire via ntfy.sh au topic "verset"
+- 📖 Format : titre (référence biblique) + texte du verset + note personnelle
+- 🎲 Sélection aléatoire parmi les 106 moments disponibles
+- 🔧 Déclenchement manuel possible pour tester
 
 ## 🔐 Sécurité
 

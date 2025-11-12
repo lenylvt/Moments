@@ -1,0 +1,46 @@
+name: Send Hourly Verse
+
+on:
+  schedule:
+    # Runs every hour from 7am to 7pm (UTC)
+    # 7am UTC = 7 0 * * *
+    # 8am UTC = 8 0 * * *
+    # ... and so on until 7pm UTC = 19 0 * * *
+    - cron: '0 7 * * *'   # 7am
+    - cron: '0 8 * * *'   # 8am
+    - cron: '0 9 * * *'   # 9am
+    - cron: '0 10 * * *'  # 10am
+    - cron: '0 11 * * *'  # 11am
+    - cron: '0 12 * * *'  # 12pm
+    - cron: '0 13 * * *'  # 1pm
+    - cron: '0 14 * * *'  # 2pm
+    - cron: '0 15 * * *'  # 3pm
+    - cron: '0 16 * * *'  # 4pm
+    - cron: '0 17 * * *'  # 5pm
+    - cron: '0 18 * * *'  # 6pm
+    - cron: '0 19 * * *'  # 7pm
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  send-verse:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read  # Only needs read access to checkout code
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Send verse via ntfy
+      run: |
+        cd scripts
+        python send_verse.py
