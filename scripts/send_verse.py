@@ -9,6 +9,7 @@ import requests
 import sys
 from pathlib import Path
 
+sys.stdout.reconfigure(encoding='utf-8')
 
 def load_moments(moments_path: Path) -> dict:
     """Load moments from JSON file."""
