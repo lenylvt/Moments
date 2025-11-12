@@ -1,6 +1,2351 @@
 {
   "moments": [
     {
+      "content": "laissons Dieu faire ce qui est bon pour nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.22.42"
+          ],
+          "version_id": 133,
+          "human": "Luc 22:42",
+          "human_text": "en disant : « Père, si tu le veux, éloigne de moi cette coupe. Cependant, que ce ne soit pas ma volonté qui se fasse, mais la tienne. »"
+        }
+      ],
+      "tag": [
+        "perseverance"
+      ]
+    },
+    {
+      "content": "amen 🙏",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.22.40"
+          ],
+          "version_id": 133,
+          "human": "Luc 22:40",
+          "human_text": "Lorsqu'il fut arrivé à ce lieu, il leur dit : « Priez pour ne pas entrer en tentation. »"
+        }
+      ],
+      "tag": [
+        "tentation",
+        "priere"
+      ]
+    },
+    {
+      "content": "ne passons pas notre temps à faire la fête, boire ou ce soucier de notre vie, prions, Dieu est là.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.21.34"
+          ],
+          "version_id": 133,
+          "human": "Luc 21:34",
+          "human_text": "« Prenez donc garde que vos cœurs ne s'appesantissent sous le poids des plaisirs de la fête, de l'ivresse et des soucis de la vie présente, et que ce jour ne vienne sur vous à l'improviste"
+        }
+      ],
+      "tag": [
+        "ivresse",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "lors des jugements, Jesus nous donne nos mots.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.21.14",
+            "LUK.21.15"
+          ],
+          "version_id": 133,
+          "human": "Luc 21:14-15",
+          "human_text": "Mettez-vous donc dans la tête de ne pas réfléchir d'avance à la manière de répondre, car je vous donnerai une bouche et une sagesse auxquelles tous vos adversaires ne pourront résister ni contredire"
+        }
+      ],
+      "tag": [
+        "discernement",
+        "courage"
+      ]
+    },
+    {
+      "content": "",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "LUK.18.27"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:27",
+          "human_text": "Mais il a dit : « Ce qui est impossible aux hommes est possible à Dieu. »"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "nous sommes sauvés.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.18.27"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:27",
+          "human_text": "Mais il a dit : « Ce qui est impossible aux hommes est possible à Dieu. »"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "commandement.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.18.20"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:20",
+          "human_text": "Tu connais les commandements : « Ne commets pas d'adultère », « Ne commets pas de meurtre », « Ne vole pas », « Ne porte pas de faux témoignage », « Honore ton père et ta mère »"
+        },
+        {
+          "usfm": [
+            "LUK.18.22"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:22",
+          "human_text": "Jésus, ayant entendu cela, lui dit : « Il te manque encore une chose. Vendez tout ce que vous avez et distribuez-le aux pauvres. Vous aurez alors un trésor dans le ciel ; puis venez, suivez-moi. »"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "pauvres"
+      ]
+    },
+    {
+      "content": "celui qui veux être au dessus des autres, on lui donnera la dernière place.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.18.14"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:14",
+          "human_text": "Je vous le dis, celui-ci est descendu chez lui justifié plutôt que l'autre ; car quiconque s'élève sera abaissé, mais celui qui s'abaisse sera élevé. »"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "orgueil"
+      ]
+    },
+    {
+      "content": "",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "LUK.18.14"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:14",
+          "human_text": "Je vous le dis, celui-ci est descendu chez lui justifié plutôt que l'autre ; car quiconque s'élève sera abaissé, mais celui qui s'abaisse sera élevé. »"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "orgueil"
+      ]
+    },
+    {
+      "content": "prions sans cesse ou chantons la gloire de Dieu.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.18.1"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:1",
+          "human_text": "Il leur dit aussi, en parabole, qu'ils devaient toujours prier et ne pas se décourager,"
+        },
+        {
+          "usfm": [
+            "LUK.18.8"
+          ],
+          "version_id": 133,
+          "human": "Luc 18:8",
+          "human_text": "Je vous dis qu'il les vengera bientôt. Cependant, quand le Fils de l'homme viendra, trouvera-t-il la foi sur la terre ? »"
+        }
+      ],
+      "tag": [
+        "priere",
+        "esperance"
+      ]
+    },
+    {
+      "content": "les autres avant nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.33"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:33",
+          "human_text": "Celui qui cherche à sauver sa vie la perd, mais celui qui perd sa vie la conserve"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "Jesus parle à nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.22"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:22",
+          "human_text": "Il dit aux disciples : « Les jours viendront où vous désirerez voir l'un des jours du Fils de l'homme, et vous ne le verrez pas"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "le Royaume est au milieu de nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.21"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:21",
+          "human_text": "on ne dira pas non plus : « Regardez, ici ! » ou « Regardez, là ! » car voici, le Royaume de Dieu est en vous. »"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "nous sommes des gens ordinaires.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.10"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:10",
+          "human_text": "De même, vous aussi, quand vous aurez fait tout ce qui vous a été commandé, dites : « Nous sommes des serviteurs indignes. Nous avons fait notre devoir. »"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "service"
+      ]
+    },
+    {
+      "content": "rien n’est impossible même pour ceux avec une petite foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.6"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:6",
+          "human_text": "Le Seigneur dit : « Si vous aviez de la foi comme un grain de sénevé, vous diriez à ce sycomore : « Déracine-toi et plante-toi dans la mer », et il vous obéirait"
+        }
+      ],
+      "tag": [
+        "perseverance",
+        "esperance"
+      ]
+    },
+    {
+      "content": "pardonnons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.3",
+            "LUK.17.4"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:3-4",
+          "human_text": "Prends garde. Si ton frère pèche contre toi, reprends-le. S'il se repent, pardonne-lui S'il a péché contre toi sept fois dans la journée, et que sept fois il revienne en disant : « Je me repens », tu lui pardonneras. »"
+        }
+      ],
+      "tag": [
+        "pardon"
+      ]
+    },
+    {
+      "content": "aidons à ne pas faire tomber dans le péché.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.17.1"
+          ],
+          "version_id": 133,
+          "human": "Luc 17:1",
+          "human_text": "Il dit aux disciples : « Il est impossible qu'il n'y ait pas d'occasions de chute, mais malheur à celui par qui elles arrivent !"
+        }
+      ],
+      "tag": [
+        "tentation"
+      ]
+    },
+    {
+      "content": "ne soyons pas habiles pour arriver à nos fins.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.16.8"
+          ],
+          "version_id": 133,
+          "human": "Luc 16:8",
+          "human_text": "« Son seigneur a félicité le gérant malhonnête parce qu'il avait agi avec sagesse, car les enfants de ce monde sont, dans leur propre génération, plus sages que les enfants de la lumière"
+        }
+      ],
+      "tag": [
+        "hypocrisie",
+        "discernement"
+      ]
+    },
+    {
+      "content": "fêtons les personnes qui reviennent. ceux qui se sont perdu mérite d’être loué!",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.15.21",
+            "LUK.15.22"
+          ],
+          "version_id": 133,
+          "human": "Luc 15:21-22",
+          "human_text": "Le fils lui dit : « Père, j'ai péché contre le ciel et à tes yeux. Je ne suis plus digne d'être appelé ton fils » « Mais le père dit à ses serviteurs : « Apportez la plus belle robe et mettez-la sur lui. Mettez un anneau à sa main et des sandales à ses pieds"
+        },
+        {
+          "usfm": [
+            "LUK.15.24"
+          ],
+          "version_id": 133,
+          "human": "Luc 15:24",
+          "human_text": "car celui-ci, mon fils, était mort et il revit. Il était perdu et il est retrouvé. Et ils se mirent à célébrer"
+        },
+        {
+          "usfm": [
+            "LUK.15.29"
+          ],
+          "version_id": 133,
+          "human": "Luc 15:29",
+          "human_text": "Mais il répondit à son père : « Voici tant d'années que je te sers et je n'ai jamais désobéi à un de tes commandements, mais tu ne m'as jamais donné de chèvre pour que je puisse faire la fête avec mes amis"
+        },
+        {
+          "usfm": [
+            "LUK.15.31",
+            "LUK.15.32"
+          ],
+          "version_id": 133,
+          "human": "Luc 15:31-32",
+          "human_text": "Il lui dit : « Mon fils, tu es toujours avec moi, et tout ce qui est à moi est à toi Mais il convenait de célébrer et de se réjouir, car celui-ci, ton frère, était mort, et il est ressuscité. Il était perdu, et il est retrouvé. »"
+        }
+      ],
+      "tag": [
+        "pardon"
+      ]
+    },
+    {
+      "content": "changeons notre vie pour que Dieu soit dans la joie. mais surtout aidons les pêcheurs pour que Dieu les aides comme jamais.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.15.4",
+            "LUK.15.5",
+            "LUK.15.6",
+            "LUK.15.7"
+          ],
+          "version_id": 133,
+          "human": "Luc 15:4-7",
+          "human_text": "« Lequel d'entre vous, s'il avait cent brebis et en perdait une, ne laisserait pas les quatre-vingt-dix-neuf autres dans le désert pour courir après celle qui est perdue, jusqu'à ce qu'il la retrouve ? Lorsqu'il l'a trouvée, il la porte sur ses épaules en se réjouissant De retour à la maison, il appelle ses amis et ses voisins, en leur disant : « Réjouissez-vous avec moi, car j'ai retrouvé ma brebis qui était perdue ! » Je vous le dis, de même, il y aura plus de joie dans le ciel pour un seul pécheur qui se repent, que pour quatre-vingt-dix-neuf justes qui n'ont pas besoin de se repentir"
+        }
+      ],
+      "tag": [
+        "service",
+        "esperance"
+      ]
+    },
+    {
+      "content": "aidons ceux qui ont besoins d’aide.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.14.13",
+            "LUK.14.14"
+          ],
+          "version_id": 133,
+          "human": "Luc 14:13-14",
+          "human_text": "Mais quand tu fais un festin, demande aux pauvres, aux estropiés, aux boiteux ou aux aveugles ; et tu seras béni, car ils n'ont pas les moyens de te rembourser. Car vous serez remboursés à la résurrection des justes. »"
+        }
+      ],
+      "tag": [
+        "pauvres",
+        "service"
+      ]
+    },
+    {
+      "content": "les autres sont plus importants que nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.14.10",
+            "LUK.14.11"
+          ],
+          "version_id": 133,
+          "human": "Luc 14:10-11",
+          "human_text": "Mais quand tu es invité, va t'asseoir à la place la plus basse, afin que celui qui t'a invité vienne te dire : « Mon ami, monte plus haut ». Alors tu seras honoré en présence de tous ceux qui seront à table avec toi Car quiconque s'élève sera abaissé, et quiconque s'abaisse sera élevé. »"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "amitie"
+      ]
+    },
+    {
+      "content": "si nous sommes jugé, cherchons à résoudre cela avant.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.58",
+            "LUK.12.59"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:58-59",
+          "human_text": "En effet, lorsque tu vas avec ton adversaire devant le magistrat, efforce-toi en chemin de te libérer de lui, de peur qu'il ne te traîne devant le juge, que le juge ne te livre à l'officier, et que l'officier ne te jette en prison Je vous le dis, vous ne sortirez nullement de là avant d'avoir payé jusqu'au dernier sou. »"
+        }
+      ],
+      "tag": [
+        "conflit",
+        "justice"
+      ]
+    },
+    {
+      "content": "Dieu ne souhaite pas notre malheur et même si nous avons peu de foi. Dieu sera grand pour nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.28"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:28",
+          "human_text": "Mais si c'est ainsi que Dieu habille l'herbe des champs, qui existe aujourd'hui et qui demain sera jetée au four, à combien plus forte raison vous habillera-t-il, vous, les gens de peu de foi ?"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "vivons dans la paix Dieu est là.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.25"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:25",
+          "human_text": "Lequel d'entre vous, en s'inquiétant, peut ajouter une coudée à sa taille ?"
+        }
+      ],
+      "tag": [
+        "conflit",
+        "esperance"
+      ]
+    },
+    {
+      "content": "wow. c’est vrai ça.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.24"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:24",
+          "human_text": "Considérez les corbeaux : ils ne sèment pas, ils ne moissonnent pas, ils n'ont ni grenier ni étable, et Dieu les nourrit. Combien vous êtes plus précieux que les oiseaux !"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "gratitude"
+      ]
+    },
+    {
+      "content": "la seul vrai richesse, et celle avec Dieu.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.21"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:21",
+          "human_text": "Il en est de même de celui qui amasse un trésor pour lui-même, et qui n'est pas riche envers Dieu. »"
+        }
+      ],
+      "tag": [
+        "richesse",
+        "esperance"
+      ]
+    },
+    {
+      "content": "ayons pas peur de parler. l’Esprit Saint sera avec nous.",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.12"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:12",
+          "human_text": "car l'Esprit Saint vous enseignera à l'heure même ce que vous devez dire. »"
+        }
+      ],
+      "tag": [
+        "courage",
+        "discernement"
+      ]
+    },
+    {
+      "content": "respectons la sainte Trinité.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.9",
+            "LUK.12.10"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:9-10",
+          "human_text": "mais celui qui me renie devant les hommes sera renié devant les anges de Dieu Quiconque dira une parole contre le Fils de l'homme sera pardonné, mais ceux qui blasphèmeront contre le Saint-Esprit ne seront pas pardonnés"
+        }
+      ],
+      "tag": [
+        "discernement",
+        "pardon"
+      ]
+    },
+    {
+      "content": "même, entre notre cœur et notre esprit soyons saint.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.3"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:3",
+          "human_text": "C'est pourquoi tout ce que vous avez dit dans les ténèbres sera entendu dans la lumière. Ce que vous avez dit à l'oreille dans les chambres intérieures sera proclamé sur les toits"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "paroles"
+      ]
+    },
+    {
+      "content": "la vérité arrivera un jour.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.12.2"
+          ],
+          "version_id": 133,
+          "human": "Luc 12:2",
+          "human_text": "Mais il n'y a rien de caché qui ne soit révélé, ni de dissimulé qui ne soit connu"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "lavons notre cœur, pas que nos mains.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.11.38",
+            "LUK.11.39"
+          ],
+          "version_id": 133,
+          "human": "Luc 11:38-39",
+          "human_text": "Lorsque le pharisien le vit, il s'étonna qu'il ne se soit pas d'abord lavé avant de dîner Le Seigneur lui dit : « Vous, les pharisiens, vous nettoyez l'extérieur de la coupe et du plat, mais votre intérieur est plein de rapines et de méchancetés"
+        }
+      ],
+      "tag": [
+        "hypocrisie",
+        "humilite"
+      ]
+    },
+    {
+      "content": "aidons à rassembler le troupeau.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.11.23"
+          ],
+          "version_id": 133,
+          "human": "Luc 11:23",
+          "human_text": "« Celui qui n'est pas avec moi est contre moi. Celui qui ne s'assemble pas avec moi se disperse"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "amitie"
+      ]
+    },
+    {
+      "content": "demandons et nous recevrons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.11.9",
+            "LUK.11.10"
+          ],
+          "version_id": 133,
+          "human": "Luc 11:9-10",
+          "human_text": "« Je vous le dis, continuez à demander, et l'on vous donnera. Cherchez toujours, et vous trouverez. Continuez à frapper, et l'on vous ouvrira Car quiconque demande reçoit. Celui qui cherche trouve. A celui qui frappe, on ouvre"
+        },
+        {
+          "usfm": [
+            "LUK.11.13"
+          ],
+          "version_id": 133,
+          "human": "Luc 11:13",
+          "human_text": "Si donc vous, qui êtes mauvais, vous savez donner de bonnes choses à vos enfants, à combien plus forte raison votre Père céleste donnera-t-il le Saint-Esprit à ceux qui le lui demandent. »"
+        }
+      ],
+      "tag": [
+        "priere",
+        "esperance"
+      ]
+    },
+    {
+      "content": "si nous sommes bon, nous seront attaqués. mais cela a t’il de l’importance ? non. Dieu est avec nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.10.36",
+            "LUK.10.37"
+          ],
+          "version_id": 133,
+          "human": "Luc 10:36-37",
+          "human_text": "Maintenant, lequel de ces trois vous semble être le prochain de celui qui est tombé au milieu des brigands ? » Il a dit : « Celui qui a eu pitié de lui. » Alors Jésus lui dit : « Va et fais de même. »"
+        }
+      ],
+      "tag": [
+        "courage",
+        "esperance"
+      ]
+    },
+    {
+      "content": "Jesus nous informe ici que chacun aura un interprétation différente. mais, aimons Dieu de tout notre cœurs, tout notre être, de toute notre force et de toute notre intelligence. et notre prochain comme nous même.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.10.26",
+            "LUK.10.27"
+          ],
+          "version_id": 133,
+          "human": "Luc 10:26-27",
+          "human_text": "Il lui dit : « Qu'est-ce qui est écrit dans la loi ? Comment la lis-tu ? » Il répondit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de toute ta force et de toute ta pensée, et ton prochain comme toi-même. »"
+        }
+      ],
+      "tag": []
+    },
+    {
+      "content": "Amen 🙏",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.10.20"
+          ],
+          "version_id": 133,
+          "human": "Luc 10:20",
+          "human_text": "Cependant, ne vous réjouissez pas de ce que les esprits vous sont soumis, mais réjouissez-vous de ce que vos noms sont inscrits dans les cieux. »"
+        }
+      ],
+      "tag": []
+    },
+    {
+      "content": "Sodome = ville dominé par le mal.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.10.12"
+          ],
+          "version_id": 133,
+          "human": "Luc 10:12",
+          "human_text": "Je vous le dis, en ce jour-là, il sera plus supportable pour Sodome que pour cette ville"
+        }
+      ],
+      "tag": [
+        "maladie",
+        "hypocrisie"
+      ]
+    },
+    {
+      "content": "suivons Dieu. toujours.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.9.62"
+          ],
+          "version_id": 133,
+          "human": "Luc 9:62",
+          "human_text": "Mais Jésus lui dit : « Personne, ayant mis la main à la charrue et regardant en arrière, n'est apte au Royaume de Dieu. »"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "Jesus s’occupe de nous, mais de notre famille par notre Foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.9.58",
+            "LUK.9.59",
+            "LUK.9.60"
+          ],
+          "version_id": 133,
+          "human": "Luc 9:58-60",
+          "human_text": "Jésus lui dit : « Les renards ont des trous et les oiseaux du ciel des nids, mais le Fils de l'homme n'a pas où reposer sa tête. » Il dit à un autre : « Suis-moi ! » Mais il a dit : « Seigneur, permets-moi d'aller d'abord enterrer mon père. » Mais Jésus lui dit : « Laisse les morts enterrer leurs propres morts, mais toi, va annoncer le Royaume de Dieu. »"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "famille"
+      ]
+    },
+    {
+      "content": "par contre = avec nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.9.50"
+          ],
+          "version_id": 133,
+          "human": "Luc 9:50",
+          "human_text": "Jésus lui dit : « Ne l'empêche pas, car celui qui n'est pas contre nous est pour nous. »"
+        }
+      ],
+      "tag": [
+        "conflit",
+        "service"
+      ]
+    },
+    {
+      "content": "cela ne sert à rien de vouloir être important.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.9.48"
+          ],
+          "version_id": 133,
+          "human": "Luc 9:48",
+          "human_text": "et leur dit : « Quiconque reçoit ce petit enfant en mon nom me reçoit. Et celui qui me reçoit reçoit celui qui m'a envoyé. Car celui qui est le plus petit parmi vous tous, celui-là sera grand. »"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "orgueil"
+      ]
+    },
+    {
+      "content": "donnons notre vie et nos richesse aux autres.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.9.24",
+            "LUK.9.25",
+            "LUK.9.26",
+            "LUK.9.27"
+          ],
+          "version_id": 133,
+          "human": "Luc 9:24-27",
+          "human_text": "Car quiconque veut sauver sa vie la perdra, mais quiconque perdra sa vie à cause de moi la sauvera En effet, que sert à un homme de gagner le monde entier, s'il se perd ou se renie lui-même ? Car quiconque aura honte de moi et de mes paroles, le Fils de l'homme aura honte de lui, quand il viendra dans sa gloire, et dans la gloire du Père et des saints anges Mais je vous dis la vérité : parmi ceux qui se tiennent ici, il en est qui ne goûteront nullement à la mort avant d'avoir vu le Royaume de Dieu. »"
+        }
+      ],
+      "tag": [
+        "richesse",
+        "service"
+      ]
+    },
+    {
+      "content": "venons aux Christ et nos pêchers seront pardonnés.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.7.41",
+            "LUK.7.42",
+            "LUK.7.43",
+            "LUK.7.44",
+            "LUK.7.45",
+            "LUK.7.46",
+            "LUK.7.47",
+            "LUK.7.48"
+          ],
+          "version_id": 133,
+          "human": "Luc 7:41-48",
+          "human_text": "« Un certain prêteur avait deux débiteurs. L'un devait cinq cents deniers, et l'autre cinquante Comme ils ne pouvaient pas payer, il leur a pardonné à tous les deux. Lequel d'entre eux donc l'aimera le plus ? » Simon répondit : « Celui, je suppose, à qui il a pardonné le plus. » Il lui dit : « Tu as bien jugé. » Se tournant vers la femme, il dit à Simon : « Vois-tu cette femme ? Je suis entré dans ta maison, et tu ne m'as pas donné d'eau pour mes pieds, mais elle a mouillé mes pieds avec ses larmes, et les a essuyés avec les cheveux de sa tête Tu ne m'as pas donné de baiser, mais elle, depuis que je suis entré, n'a pas cessé de baiser mes pieds Tu n'as pas oint ma tête d'huile, mais elle a oint mes pieds de parfum C'est pourquoi je vous dis que ses péchés, qui sont nombreux, sont pardonnés, car elle a beaucoup aimé. Mais celui à qui on pardonne peu, aime peu. » Il lui dit : « Tes péchés sont pardonnés. »"
+        }
+      ],
+      "tag": [
+        "pardon",
+        "gratitude"
+      ]
+    },
+    {
+      "content": "Jean = préface a Jesus. Jean l’annonce.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.7.26",
+            "LUK.7.27"
+          ],
+          "version_id": 133,
+          "human": "Luc 7:26-27",
+          "human_text": "Mais vous, qu'êtes-vous allés voir ? Un prophète ? Oui, je vous le dis, et bien plus qu'un prophète C'est celui dont il est écrit, Voici que j'envoie mon messager devant toi, qui préparera ton chemin devant toi"
+        }
+      ],
+      "tag": [
+        "avenir"
+      ]
+    },
+    {
+      "content": "Il fait tellement de choses. croyons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.7.22",
+            "LUK.7.23"
+          ],
+          "version_id": 133,
+          "human": "Luc 7:22-23",
+          "human_text": "Jésus leur répondit : « Allez annoncer à Jean ce que vous avez vu et entendu : que les aveugles recouvrent la vue, que les boiteux marchent, que les lépreux sont purifiés, que les sourds entendent, que les morts ressuscitent, et que la bonne nouvelle est annoncée aux pauvres Heureux celui qui ne trouve en moi aucune occasion de chute ! »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "pauvres"
+      ]
+    },
+    {
+      "content": "Seigneur, dit seulement un mot et je serai guérie.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.7.7"
+          ],
+          "version_id": 133,
+          "human": "Luc 7:7",
+          "human_text": "C'est pourquoi je ne me suis même pas cru digne de venir te voir ; mais dis la parole, et mon serviteur sera guéri"
+        }
+      ],
+      "tag": []
+    },
+    {
+      "content": "",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.47",
+            "LUK.6.48",
+            "LUK.6.49"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:47-49",
+          "human_text": "Quiconque vient à moi, entend mes paroles et les met en pratique, je vous montrerai à qui il est semblable Il est semblable à un homme qui construit une maison, qui a creusé et approfondi, et qui a posé le fondement sur le roc. Quand il y a eu une inondation, le torrent s'est jeté contre cette maison et n'a pu l'ébranler, parce qu'elle était fondée sur le roc Mais celui qui entend et ne fait pas, est semblable à un homme qui a bâti sur la terre une maison sans fondement, contre laquelle le torrent s'est brisé, et aussitôt elle est tombée ; et la ruine de cette maison a été grande. »"
+        }
+      ],
+      "tag": [
+        "obeissance",
+        "discernement"
+      ]
+    },
+    {
+      "content": "écoutons la parole de Jesus, mais plus que ça, mettons aux centre de notre vie, faisait en sorte que quoi qu’il arrive faire la parole de Dieu, quitte à ne pas être aimer par les autres et se faire insulter car Dieu nous verra et nous aimera pour toujours et ce ne serait pas ça la vrai Vie ?",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.47",
+            "LUK.6.48",
+            "LUK.6.49"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:47-49",
+          "human_text": "Quiconque vient à moi, entend mes paroles et les met en pratique, je vous montrerai à qui il est semblable Il est semblable à un homme qui construit une maison, qui a creusé et approfondi, et qui a posé le fondement sur le roc. Quand il y a eu une inondation, le torrent s'est jeté contre cette maison et n'a pu l'ébranler, parce qu'elle était fondée sur le roc Mais celui qui entend et ne fait pas, est semblable à un homme qui a bâti sur la terre une maison sans fondement, contre laquelle le torrent s'est brisé, et aussitôt elle est tombée ; et la ruine de cette maison a été grande. »"
+        }
+      ],
+      "tag": [
+        "obeissance",
+        "discipulat"
+      ]
+    },
+    {
+      "content": "ayons un cœur pur.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.45"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:45",
+          "human_text": "L'homme bon tire du bon trésor de son cœur ce qui est bon, et l'homme mauvais tire du mauvais trésor de son cœur ce qui est mauvais, car c'est de l'abondance du cœur que parle la bouche"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "paroles"
+      ]
+    },
+    {
+      "content": "avons de parler soyons en paix sur ce sujet.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.42"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:42",
+          "human_text": "Ou comment peux-tu dire à ton frère : « Mon frère, laisse-moi enlever la paille qui est dans ton œil », alors que tu ne vois pas toi-même la poutre qui est dans ton œil ? Hypocrite ! Enlève d'abord la poutre de ton œil, et alors tu pourras voir clairement pour enlever la paille qui est dans l'œil de ton frère"
+        }
+      ],
+      "tag": [
+        "conflit",
+        "hypocrisie"
+      ]
+    },
+    {
+      "content": "donnons, donnons, donnons et Dieu nous donnera.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.37",
+            "LUK.6.38"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:37-38",
+          "human_text": "Ne jugez pas, et vous ne serez pas jugés. Ne condamnez pas, et tu ne seras pas condamné. Libérez-vous, et tu seras libéré « Donnez, et l'on vous donnera : on vous donnera une bonne mesure, tassée, secouée et débordante. Car c'est avec la même mesure que vous mesurez qu'on vous mesurera. »"
+        }
+      ],
+      "tag": [
+        "richesse"
+      ]
+    },
+    {
+      "content": "n’attendons rien en retour, donnons, donnons, donnons notre vie pour les autres, prions pour ceux qui font le mal, soyons gentils envers eux, respectons toute la terres.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.27",
+            "LUK.6.28",
+            "LUK.6.29",
+            "LUK.6.30",
+            "LUK.6.31"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:27-31",
+          "human_text": "« Mais moi, je vous dis, à vous qui m'écoutez : aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent, et priez pour ceux qui vous maltraitent A celui qui te frappe sur la joue, présente aussi l'autre ; et à celui qui te prend ton manteau, ne refuse pas aussi ta tunique Donne à quiconque te demande, et ne demande pas à celui qui te prive de tes biens de te les rendre « Comme vous voulez que les gens vous fassent, faites-leur exactement la même chose"
+        },
+        {
+          "usfm": [
+            "LUK.6.33",
+            "LUK.6.34",
+            "LUK.6.35"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:33-35",
+          "human_text": "Si vous faites du bien à ceux qui vous font du bien, quel honneur cela vous fait-il ? Car même les pécheurs font de même Si vous prêtez à ceux dont vous espérez recevoir, quel mérite avez-vous ? Les pécheurs eux-mêmes prêtent aux pécheurs, pour en recevoir autant en retour Mais aimez vos ennemis, faites le bien, prêtez sans rien attendre en retour, et votre récompense sera grande, et vous serez les enfants du Très-Haut, car il est bon envers les ingrats et les méchants"
+        }
+      ],
+      "tag": [
+        "service",
+        "pardon"
+      ]
+    },
+    {
+      "content": "essayons toujours de faire de notre mieux, quoi qu’il arrive ne nous arrêtons parce que nous sommes aime mais soyons indifférent au penser des autres.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.6.22",
+            "LUK.6.23",
+            "LUK.6.24",
+            "LUK.6.25",
+            "LUK.6.26"
+          ],
+          "version_id": 133,
+          "human": "Luc 6:22-26",
+          "human_text": "Heureux es-tu quand les hommes te haïssent, quand ils t'excluent et se moquent de toi, et qu'ils jettent ton nom en pâture, à cause du Fils de l'homme Réjouissez-vous en ce jour-là et tressaillez de joie, car voici que votre récompense est grande dans les cieux, car leurs pères ont agi de même envers les prophètes « Mais malheur à vous qui êtes riches ! Car vous avez reçu votre consolation Malheur à vous, vous qui êtes rassasiés maintenant, car vous aurez faim. Malheur à vous qui riez maintenant, car vous serez en deuil et pleurerez Malheur, quand les hommes disent du bien de toi, car leurs pères ont fait la même chose aux faux prophètes"
+        }
+      ],
+      "tag": [
+        "perseverance",
+        "courage"
+      ]
+    },
+    {
+      "content": "croyons en Dieu, ayons cette Foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "ROM.1.17"
+          ],
+          "version_id": 133,
+          "human": "Romains 1:17",
+          "human_text": "Car en elle est révélée la justice de Dieu, de foi à foi. Comme il est écrit : « Le juste vivra par la foi. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "ROM.1.17"
+          ],
+          "version_id": 133,
+          "human": "Romains 1:17",
+          "human_text": "Car en elle est révélée la justice de Dieu, de foi à foi. Comme il est écrit : « Le juste vivra par la foi. »"
+        }
+      ],
+      "tag": [
+        "justice",
+        "esperance"
+      ]
+    },
+    {
+      "content": "Jesus est ce marié.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.5.34",
+            "LUK.5.35"
+          ],
+          "version_id": 133,
+          "human": "Luc 5:34-35",
+          "human_text": "Il leur dit : « Pouvez-vous faire jeûner les amis de l'époux pendant que l'époux est avec eux ? Mais les jours viendront où l'époux leur sera enlevé. Alors ils jeûneront en ces jours-là. »"
+        }
+      ],
+      "tag": [
+        "mariage"
+      ]
+    },
+    {
+      "content": "aidons ceux qui se sont égarés.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.5.31",
+            "LUK.5.32"
+          ],
+          "version_id": 133,
+          "human": "Luc 5:31-32",
+          "human_text": "Jésus leur répondit : « Ceux qui sont en bonne santé n'ont pas besoin de médecin, mais ceux qui sont malades, si Je ne suis pas venu appeler les justes, mais les pécheurs, à la repentance. »"
+        }
+      ],
+      "tag": [
+        "pauvres"
+      ]
+    },
+    {
+      "content": "ayons beaucoup de foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.5.20"
+          ],
+          "version_id": 133,
+          "human": "Luc 5:20",
+          "human_text": "Voyant leur foi, Jésus lui dit : « Homme, tes péchés te sont pardonnés. »"
+        }
+      ],
+      "tag": [
+        "perseverance",
+        "esperance"
+      ]
+    },
+    {
+      "content": "« Seigneur, si tu le veux tu peux le guérir ».",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.5.12"
+          ],
+          "version_id": 133,
+          "human": "Luc 5:12",
+          "human_text": "Comme il était dans une des villes, voici qu'il y avait un homme atteint de lèpre. Lorsqu'il vit Jésus, il tomba sur sa face et le supplia en disant : « Seigneur, si tu le veux, tu peux me rendre pur. »"
+        }
+      ],
+      "tag": [
+        "perseverance",
+        "esperance"
+      ]
+    },
+    {
+      "content": "écoutons Jesus.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.5.5"
+          ],
+          "version_id": 133,
+          "human": "Luc 5:5",
+          "human_text": "Simon lui répondit : « Maître, nous avons travaillé toute la nuit et nous n'avons rien pris ; mais à ta parole, je vais jeter le filet. »"
+        }
+      ],
+      "tag": [
+        "perseverance"
+      ]
+    },
+    {
+      "content": "ici. Jesus informe sa ville natale que il est le Messie en disant que aujourd’hui cela est réalisé. mais assemble lui dit qu’il n’est pas le messie mais le Fils de David. et fini en disant que les Prophètes ne sont pas aime et reconnus dans leur ville.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.4.18",
+            "LUK.4.19",
+            "LUK.4.20",
+            "LUK.4.21",
+            "LUK.4.22",
+            "LUK.4.23",
+            "LUK.4.24"
+          ],
+          "version_id": 133,
+          "human": "Luc 4:18-24",
+          "human_text": "« L'Esprit du Seigneur est sur moi, car il m'a oint pour annoncer la bonne nouvelle aux pauvres. Il m'a envoyé pour guérir les cœurs brisés, pour proclamer la libération des captifs, le recouvrement de la vue pour les aveugles, pour délivrer ceux qui sont écrasés, et de proclamer l'année de grâce du Seigneur. » Il ferma le livre, le rendit au gardien et s'assit. Les yeux de tous ceux qui étaient dans la synagogue étaient fixés sur lui Il se mit à leur dire : « Aujourd'hui, cette Écriture s'est accomplie pour vous. » Tous témoignaient de lui et s'étonnaient des paroles gracieuses qui sortaient de sa bouche ; et ils disaient : « N'est-ce pas le fils de Joseph ? » Il leur dit : « Vous me direz sans doute ce proverbe : « Médecin, guéris-toi toi-même ! Tout ce que nous avons entendu faire à Capharnaüm, fais-le aussi ici, dans ta ville natale. » Il répondit : « En vérité, je vous le dis, aucun prophète n'est accepté dans sa ville natale"
+        }
+      ],
+      "tag": [
+        "discernement"
+      ]
+    },
+    {
+      "content": "l’esprit du mal peux être bloquer.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.4.13"
+          ],
+          "version_id": 133,
+          "human": "Luc 4:13",
+          "human_text": "Lorsque le diable eut achevé toutes les tentations, il s'éloigna de lui jusqu'à une autre époque"
+        }
+      ],
+      "tag": [
+        "tentation"
+      ]
+    },
+    {
+      "content": "servons Dieu.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.4.8"
+          ],
+          "version_id": 133,
+          "human": "Luc 4:8",
+          "human_text": "Jésus lui répondit : « Va derrière moi, Satan ! Car il est écrit : « Tu adoreras le Seigneur ton Dieu, et tu ne serviras que lui. »"
+        }
+      ],
+      "tag": [
+        "service",
+        "idolatrie"
+      ]
+    },
+    {
+      "content": "🙏",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.3.22"
+          ],
+          "version_id": 133,
+          "human": "Luc 3:22",
+          "human_text": "et le Saint-Esprit descendit sur lui sous une forme corporelle, comme une colombe ; et une voix sortit du ciel, disant : « Tu es mon Fils bien-aimé. En toi j'ai mis toute mon affection. »"
+        }
+      ],
+      "tag": [
+        "priere",
+        "esperance"
+      ]
+    },
+    {
+      "content": "contentons nous de ce que nous avons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.3.14"
+          ],
+          "version_id": 133,
+          "human": "Luc 3:14",
+          "human_text": "Les soldats l'interrogeaient aussi, disant : « Et nous ? Que devons-nous faire ? » Il leur dit : « N'extorquez personne par la violence, et n'accusez personne à tort. Contentez-vous de votre salaire. »"
+        }
+      ],
+      "tag": [
+        "richesse",
+        "gratitude"
+      ]
+    },
+    {
+      "content": "Ponce Pilate est une personne.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.3.1"
+          ],
+          "version_id": 133,
+          "human": "Luc 3:1",
+          "human_text": "La quinzième année du règne de Tibère César, Ponce Pilate étant gouverneur de Judée, Hérode tétrarque de Galilée, son frère Philippe tétrarque de la région d'Iturée et de Trachonite, et Lysanias tétrarque d'Abilène,"
+        }
+      ],
+      "tag": [
+        "autorite"
+      ]
+    },
+    {
+      "content": "le 3 est important.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.2.46"
+          ],
+          "version_id": 133,
+          "human": "Luc 2:46",
+          "human_text": "Trois jours après, ils le trouvèrent dans le temple, assis au milieu des maîtres, les écoutant et les interrogeant"
+        }
+      ],
+      "tag": [
+        "discernement"
+      ]
+    },
+    {
+      "content": "Siméon. ce que les anges de Dieu dissent, cela se réalisera.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.2.29",
+            "LUK.2.30",
+            "LUK.2.31",
+            "LUK.2.32"
+          ],
+          "version_id": 133,
+          "human": "Luc 2:29-32",
+          "human_text": "« Maintenant, tu libères ton serviteur, Maître, selon ta parole, dans la paix ; car mes yeux ont vu ton salut, que tu as préparé devant la face de tous les peuples ; une lumière pour la révélation aux nations, et la gloire de ton peuple Israël. »"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "louange à Dieu.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.2.14"
+          ],
+          "version_id": 133,
+          "human": "Luc 2:14",
+          "human_text": "« Gloire à Dieu au plus haut des cieux, sur la terre la paix, la bonne volonté envers les hommes »"
+        }
+      ],
+      "tag": [
+        "gratitude"
+      ]
+    },
+    {
+      "content": "naissance sur Sauveur.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.2.7"
+          ],
+          "version_id": 133,
+          "human": "Luc 2:7",
+          "human_text": "Elle mit au monde son fils premier-né. Elle l'enveloppa dans des bandes de tissu et le coucha dans une mangeoire, car il n'y avait pas de place pour eux dans l'auberge"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "creation"
+      ]
+    },
+    {
+      "content": "Dieu nous protège.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.74",
+            "LUK.1.75"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:74-75",
+          "human_text": "de nous accorder que, délivrés de la main de nos ennemis, doivent le servir sans crainte, dans la sainteté et la droiture devant lui tous les jours de notre vie"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "Dieu nous montre encore son amour.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.70",
+            "LUK.1.71",
+            "LUK.1.72",
+            "LUK.1.73"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:70-73",
+          "human_text": "(comme il l'a dit par la bouche de ses saints prophètes qui existent depuis des temps immémoriaux), le salut de nos ennemis et de la main de tous ceux qui nous haïssent ; pour faire preuve de clémence envers nos pères, pour se souvenir de sa sainte alliance, le serment qu'il a fait à Abraham, notre père,"
+        }
+      ],
+      "tag": [
+        "gratitude",
+        "esperance"
+      ]
+    },
+    {
+      "content": "on remarque que Luc loue énormément le Seigneur.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.58"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:58",
+          "human_text": "Ses voisins et ses proches apprirent que le Seigneur avait magnifié sa miséricorde envers elle, et ils se réjouirent avec elle"
+        }
+      ],
+      "tag": [
+        "gratitude"
+      ]
+    },
+    {
+      "content": "louons le.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.46",
+            "LUK.1.47"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:46-47",
+          "human_text": "Marie a dit, « Mon âme magnifie le Seigneur Mon esprit s'est réjoui en Dieu mon Sauveur,"
+        }
+      ],
+      "tag": [
+        "gratitude"
+      ]
+    },
+    {
+      "content": "suivons le plan de Dieu.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.38"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:38",
+          "human_text": "Marie dit : « Voici la servante du Seigneur ; qu'il me soit fait selon ta parole. » Puis l'ange s'éloigna d'elle"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "obeissance"
+      ]
+    },
+    {
+      "content": "amen 🙏.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.37"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:37",
+          "human_text": "Car rien de ce qui est dit par Dieu n'est impossible. »"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "Jesus a un pouvoir sans fin.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.33"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:33",
+          "human_text": "et il régnera sur la maison de Jacob pour toujours. Il n'y aura pas de fin à son règne. »"
+        }
+      ],
+      "tag": [
+        "avenir",
+        "esperance"
+      ]
+    },
+    {
+      "content": "les anges sont là paroles de Dieu.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.19",
+            "LUK.1.20"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:19-20",
+          "human_text": "L'ange lui répondit : « Je suis Gabriel, qui se tient dans la présence de Dieu. J'ai été envoyé pour te parler et t'annoncer cette bonne nouvelle Voici, tu te tairas et tu ne pourras pas parler jusqu'au jour où ces choses arriveront, parce que tu n'as pas cru à mes paroles, qui s'accompliront en leur temps. »"
+        }
+      ],
+      "tag": [
+        "paroles"
+      ]
+    },
+    {
+      "content": "encens = l’odeur des messes.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.1.9"
+          ],
+          "version_id": 133,
+          "human": "Luc 1:9",
+          "human_text": "selon la coutume de la fonction de prêtre, son lot était d'entrer dans le temple du Seigneur et d'y brûler des parfums"
+        }
+      ],
+      "tag": [
+        "service",
+        "creation"
+      ]
+    },
+    {
+      "content": "forçons nous à faire les choses les plus dur et soûlante pour que la récolte soit pleines.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.20.4"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 20:4",
+          "human_text": "Le paresseux ne laboure pas à cause de l'hiver ; c'est pourquoi il mendiera dans la moisson, et n'aura rien"
+        }
+      ],
+      "tag": [
+        "travail",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "soyons droit.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.15.19"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 15:19",
+          "human_text": "La voie du paresseux est comme un champ d'épines, mais le chemin des hommes droits est une autoroute"
+        }
+      ],
+      "tag": [
+        "justice",
+        "travail"
+      ]
+    },
+    {
+      "content": "travaillons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.13.4"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 13:4",
+          "human_text": "L'âme du paresseux désire, et elle n'a rien, mais le désir du diligent sera pleinement satisfait"
+        }
+      ],
+      "tag": [
+        "travail",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "Dieu n’aime pas les paresseux.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.10.26"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 10:26",
+          "human_text": "Comme du vinaigre pour les dents, et comme de la fumée pour les yeux, Il en est de même du paresseux pour ceux qui l'envoient"
+        }
+      ],
+      "tag": [
+        "travail",
+        "discipline"
+      ]
+    },
+    {
+      "content": "levons nous et travaillons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.6.9",
+            "PRO.6.10",
+            "PRO.6.11"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 6:9-11",
+          "human_text": "Combien de temps vas-tu dormir, paresseux ? Quand sortiras-tu de ton sommeil ? Un peu de sommeil, un peu d'assoupissement, un petit pliage des mains pour dormir.. ainsi votre pauvreté viendra comme un voleur, et votre rareté en tant qu'homme armé"
+        }
+      ],
+      "tag": [
+        "travail"
+      ]
+    },
+    {
+      "content": "croyons et nous pouvons faire cela.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.16.15",
+            "MRK.16.16",
+            "MRK.16.17",
+            "MRK.16.18"
+          ],
+          "version_id": 133,
+          "human": "Marc 16:15-18",
+          "human_text": "Il leur dit : « Allez dans le monde entier et prêchez la Bonne Nouvelle à toute la création Celui qui croira et sera baptisé sera sauvé, mais celui qui ne croira pas sera condamné Voici les signes qui accompagneront ceux qui croient : en mon nom, ils chasseront les démons ; ils parleront des langues nouvelles ; ils saisiront des serpents ; s'ils boivent quelque chose de mortel, cela ne leur fera aucun mal ; ils imposeront les mains aux malades, et ils guériront. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "discipulat"
+      ]
+    },
+    {
+      "content": "Dieu, pourquoi m’a tu abandonné?",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.15.34"
+          ],
+          "version_id": 133,
+          "human": "Marc 15:34",
+          "human_text": "A la neuvième heure, Jésus s'écria d'une voix forte : « Eloi, Eloi, lama sabachthani ? », ce qui revient à dire : « Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? »"
+        }
+      ],
+      "tag": [
+        "solitude",
+        "esperance"
+      ]
+    },
+    {
+      "content": "ne regardons pas la beauté des gens, mais l’intérieur, car oui c’est la vérité ceux qui se mette à la volonté de Dieu, leur beauté durera.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.31.30",
+            "PRO.31.31"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 31:30-31",
+          "human_text": "Le charme est trompeur, et la beauté est vaine ; mais une femme qui craint Yahvé, on la louera Donnez-lui du fruit de ses mains ! Que ses œuvres la louent dans les portes !"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "discernement"
+      ]
+    },
+    {
+      "content": "sanctifie ces offrandes.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.14.22",
+            "MRK.14.23",
+            "MRK.14.24",
+            "MRK.14.25"
+          ],
+          "version_id": 133,
+          "human": "Marc 14:22-25",
+          "human_text": "Pendant qu'ils mangeaient, Jésus prit du pain ; et, après l'avoir béni, il le rompit et le leur donna, en disant : « Prenez, mangez. Ceci est mon corps. » Il prit la coupe, et, après avoir rendu grâces, il la leur donna. Ils en burent tous Il leur dit : « Ceci est mon sang, le sang de la nouvelle alliance, qui est répandu pour la multitude Je vous le dis en vérité, je ne boirai plus du fruit de la vigne jusqu'au jour où je le boirai à nouveau dans le Royaume de Dieu. »"
+        }
+      ],
+      "tag": [
+        "service",
+        "gratitude"
+      ]
+    },
+    {
+      "content": "plus petit = meilleur (ctt)",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "PRO.15.16",
+            "PRO.15.17"
+          ],
+          "version_id": 133,
+          "human": "Proverbes 15:16-17",
+          "human_text": "Mieux vaut peu, avec la crainte de Yahvé, que de grands trésors avec des problèmes Mieux vaut un dîner d'herbes, où se trouve l'amour, qu'un veau engraissé par la haine"
+        }
+      ],
+      "tag": [
+        "richesse"
+      ]
+    },
+    {
+      "content": "suivons Dieu pour être près quand Jesus reviendra.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.13.37"
+          ],
+          "version_id": 133,
+          "human": "Marc 13:37",
+          "human_text": "Ce que je vous dis, je le dis à tous : Veillez ! »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "obeissance"
+      ]
+    },
+    {
+      "content": "la vie éternelle.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.13.31"
+          ],
+          "version_id": 133,
+          "human": "Marc 13:31",
+          "human_text": "Le ciel et la terre passeront, mais mes paroles ne passeront pas"
+        }
+      ],
+      "tag": [
+        "mort",
+        "esperance"
+      ]
+    },
+    {
+      "content": "Jesus reviens bientôt.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.13.24",
+            "MRK.13.25",
+            "MRK.13.26"
+          ],
+          "version_id": 133,
+          "human": "Marc 13:24-26",
+          "human_text": "Mais en ces jours-là, après cette oppression, le soleil s'obscurcira, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel, et les puissances qui sont dans les cieux seront ébranlées Alors ils verront le Fils de l'homme venant sur des nuées avec beaucoup de puissance et de gloire"
+        },
+        {
+          "usfm": [
+            "MRK.13.29"
+          ],
+          "version_id": 133,
+          "human": "Marc 13:29",
+          "human_text": "de même, vous aussi, lorsque vous voyez ces choses arriver, sachez que c'est proche, aux portes"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "avenir"
+      ]
+    },
+    {
+      "content": "Dieu parle à travers nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.13.11"
+          ],
+          "version_id": 133,
+          "human": "Marc 13:11",
+          "human_text": "Quand on vous emmènera et qu'on vous livrera, ne vous inquiétez pas d'avance et ne préméditez pas ce que vous allez dire, mais dites ce qui vous sera donné à l'heure même. Car ce n'est pas vous qui parlez, mais l'Esprit Saint"
+        }
+      ],
+      "tag": [
+        "discernement",
+        "courage"
+      ]
+    },
+    {
+      "content": "donnant le plus possible.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.43",
+            "MRK.12.44"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:43-44",
+          "human_text": "Il appela ses disciples et leur dit : « Je vous le dis en vérité, cette pauvre veuve a donné plus que tous ceux qui donnent au trésor, car tous ont donné de leur superflu, mais elle, de sa pauvreté, a donné tout ce qu'elle avait pour vivre. »"
+        }
+      ],
+      "tag": [
+        "pauvres",
+        "gratitude"
+      ]
+    },
+    {
+      "content": "aimons de notre cœur, et non pas pour être aimer.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.38"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:38",
+          "human_text": "Dans son enseignement, il leur disait : « Méfiez-vous des scribes, qui aiment à se promener en longues robes, à se faire saluer sur les places publiques,"
+        },
+        {
+          "usfm": [
+            "MRK.12.40"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:40",
+          "human_text": "ceux qui dévorent les maisons des veuves, et qui, pour faire semblant, font de longues prières. Ceux-là recevront une plus grande condamnation. »"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "hypocrisie"
+      ]
+    },
+    {
+      "content": "aimons Dieu, et notre prochain, avant de faire des offrandes ou sacrifices.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.29",
+            "MRK.12.30",
+            "MRK.12.31",
+            "MRK.12.32",
+            "MRK.12.33"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:29-33",
+          "human_text": "Jésus répondit : « La plus grande est : Écoute, Israël, le Seigneur notre Dieu, le Seigneur est unique Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de toute ta pensée et de toute ta force.' Tel est le premier commandement Le second est ainsi conçu : « Tu aimeras ton prochain comme toi-même ». Il n'y a pas d'autre commandement plus grand que ceux-là. » Le scribe lui dit : « En vérité, maître, tu as bien dit qu'il est unique et qu'il n'y en a pas d'autre que lui ; et l'aimer de tout son cœur, de toute son intelligence, de toute son âme et de toute sa force, et aimer son prochain comme soi-même, est plus important que tous les holocaustes et tous les sacrifices. »"
+        }
+      ],
+      "tag": [
+        "service",
+        "amitie"
+      ]
+    },
+    {
+      "content": "nous avons la vie éternelle.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.27"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:27",
+          "human_text": "Il n'est pas le Dieu des morts, mais des vivants. Vous vous trompez donc lourdement. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "mort"
+      ]
+    },
+    {
+      "content": "",
+      "color": "ff95ef",
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.17"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:17",
+          "human_text": "Jésus leur répondit : « Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. » Ils s'émerveillaient beaucoup devant lui"
+        }
+      ],
+      "tag": [
+        "autorite",
+        "discernement"
+      ]
+    },
+    {
+      "content": "par cette parole, Jesus nous dit de respecter les lois, les obligation civile et autre tout en donnant à Dieu notre temps, la foi, l’amour, le respect.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.17"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:17",
+          "human_text": "Jésus leur répondit : « Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. » Ils s'émerveillaient beaucoup devant lui"
+        }
+      ],
+      "tag": [
+        "autorite",
+        "obeissance"
+      ]
+    },
+    {
+      "content": "Jesus est cette pierre.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.12.10",
+            "MRK.12.11"
+          ],
+          "version_id": 133,
+          "human": "Marc 12:10-11",
+          "human_text": "N'avez-vous même pas lu cette Écriture ? « La pierre que les bâtisseurs ont rejetée a été nommé à la tête du coin Cela vient de l'Éternel. C'est merveilleux à nos yeux » ?"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "si on n’y croit, Dieu le fera. quand nous prions disons nous que nous l’avons, et Dieu le réalisera. et pardonnons les autres.",
+      "color": "ff95ef",
+      "references": [
+        {
+          "usfm": [
+            "MRK.11.23",
+            "MRK.11.24",
+            "MRK.11.25"
+          ],
+          "version_id": 133,
+          "human": "Marc 11:23-25",
+          "human_text": "Car, je vous le dis en vérité, quiconque dira à cette montagne : « Emporte-la et jette-la dans la mer », et ne doutera pas dans son cœur, mais croira que ce qu'il dit arrive, obtiendra ce qu'il dira C'est pourquoi je vous dis que tout ce que vous priez et demandez, croyez que vous l'avez reçu, et vous l'aurez Chaque fois que vous êtes en prière, pardonnez, si vous avez quelque chose contre quelqu'un, afin que votre Père, qui est dans les cieux, vous pardonne aussi vos transgressions"
+        }
+      ],
+      "tag": [
+        "priere",
+        "pardon"
+      ]
+    },
+    {
+      "content": "ayons la foi.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.10.52"
+          ],
+          "version_id": 133,
+          "human": "Marc 10:52",
+          "human_text": "Jésus lui dit : « Va-t'en. Ta foi t'a guéri. » Aussitôt, il recouvra la vue et suivit Jésus sur le chemin"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "soyons la pour les autre, pensons aux autres avant nous.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.10.45"
+          ],
+          "version_id": 133,
+          "human": "Marc 10:45",
+          "human_text": "Car le Fils de l'homme est venu, lui aussi, non pour être servi, mais pour servir, et donner sa vie en rançon pour la multitude. »"
+        }
+      ],
+      "tag": [
+        "service",
+        "amitie"
+      ]
+    },
+    {
+      "content": "la vie. les commandements. la richesse. la vie éternelle.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.10.19"
+          ],
+          "version_id": 133,
+          "human": "Marc 10:19",
+          "human_text": "Tu connais les commandements : Ne commets pas de meurtre, ne commets pas d'adultère, ne vole pas, ne fais pas de faux témoignage, ne fais pas d'escroquerie, honore ton père et ta mère. »"
+        },
+        {
+          "usfm": [
+            "MRK.10.21"
+          ],
+          "version_id": 133,
+          "human": "Marc 10:21",
+          "human_text": "Jésus, le regardant, l'aima et lui dit : « Il te manque une chose. Va, vends tout ce que tu as et donne-le aux pauvres, et tu auras un trésor dans le ciel ; puis viens, suis-moi, en prenant la croix. »"
+        },
+        {
+          "usfm": [
+            "MRK.10.23"
+          ],
+          "version_id": 133,
+          "human": "Marc 10:23",
+          "human_text": "Jésus regarda autour de lui et dit à ses disciples : « Comme il est difficile à ceux qui ont des richesses d'entrer dans le Royaume de Dieu ! »"
+        },
+        {
+          "usfm": [
+            "MRK.10.29",
+            "MRK.10.30",
+            "MRK.10.31"
+          ],
+          "version_id": 133,
+          "human": "Marc 10:29-31",
+          "human_text": "Jésus dit : « Je vous le dis en vérité, il n'est personne qui, à cause de moi et à cause de la Bonne Nouvelle, ait quitté sa maison, ses frères, ses sœurs, son père, sa mère, sa femme, ses enfants ou sa terre ; mais il recevra cent fois plus maintenant, dans ce temps-ci : des maisons, des frères, des sœurs, des mères, des enfants et des terres, avec des persécutions ; et dans le siècle à venir, la vie éternelle Mais beaucoup de premiers seront les derniers, et les derniers les premiers. »"
+        }
+      ],
+      "tag": [
+        "richesse",
+        "avenir"
+      ]
+    },
+    {
+      "content": "pardonnons leurs péché, ils ne savant pas ce qu’ils font.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.23.34"
+          ],
+          "version_id": 133,
+          "human": "Luc 23:34",
+          "human_text": "Jésus dit : « Père, pardonne-leur, car ils ne savent pas ce qu'ils font. » Ils se partagèrent ses vêtements en tirant au sort"
+        }
+      ],
+      "tag": [
+        "pardon",
+        "persecution"
+      ]
+    },
+    {
+      "content": "",
+      "color": "ff95ef",
+      "references": [
+        {
+          "usfm": [
+            "LUK.23.34"
+          ],
+          "version_id": 133,
+          "human": "Luc 23:34",
+          "human_text": "Jésus dit : « Père, pardonne-leur, car ils ne savent pas ce qu'ils font. » Ils se partagèrent ses vêtements en tirant au sort"
+        }
+      ],
+      "tag": [
+        "pardon",
+        "humilite"
+      ]
+    },
+    {
+      "content": "nous deviendrons pur qu’on qu’il arrive, commençons donc maintenant à nous purifier.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.9.49",
+            "MRK.9.50"
+          ],
+          "version_id": 133,
+          "human": "Marc 9:49-50",
+          "human_text": "Car chacun sera salé par le feu, et tout sacrifice sera assaisonné de sel Le sel est bon, mais si le sel a perdu sa saveur, avec quoi l'assaisonnerez-vous ? Ayez du sel en vous-mêmes, et soyez en paix les uns avec les autres. »"
+        }
+      ],
+      "tag": [
+        "discipulat"
+      ]
+    },
+    {
+      "content": "aidons les autres, parlons en noms du Christ mais avec respect et foi, et donnant à nos frères.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.9.38",
+            "MRK.9.39"
+          ],
+          "version_id": 133,
+          "human": "Marc 9:38-39",
+          "human_text": "Jean lui dit : « Maître, nous avons vu quelqu'un qui ne nous suit pas, qui chasse les démons en ton nom ; et nous lui avons interdit, parce qu'il ne nous suit pas. » Mais Jésus dit : « Ne l'en empêche pas, car il n'y a personne qui fasse une œuvre puissante en mon nom et qui puisse rapidement dire du mal de moi"
+        },
+        {
+          "usfm": [
+            "MRK.9.41"
+          ],
+          "version_id": 133,
+          "human": "Marc 9:41",
+          "human_text": "En effet, quiconque vous donnera à boire un verre d'eau en mon nom, parce que vous êtes du Christ, je vous le dis en toute certitude, il ne perdra en rien sa récompense"
+        }
+      ],
+      "tag": [
+        "service",
+        "amitie"
+      ]
+    },
+    {
+      "content": "la prière peux enlève les esprits mauvais.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.9.29"
+          ],
+          "version_id": 133,
+          "human": "Marc 9:29",
+          "human_text": "Il leur dit : « Ce genre ne peut sortir que par la prière et le jeûne. »"
+        }
+      ],
+      "tag": [
+        "priere",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "la Foi peux tout faire.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.9.19"
+          ],
+          "version_id": 133,
+          "human": "Marc 9:19",
+          "human_text": "Il lui répondit : « Génération incrédule, jusqu'à quand serai-je avec vous ? Combien de temps encore vous supporterai-je ? Amenez-le-moi. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "Jesus est le messie, sa mort été prévu dès le départ. il est mort pour nos péché. 🙏",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.29",
+            "MRK.8.30"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:29-30",
+          "human_text": "Il leur dit : « Mais qui dites-vous que je suis ? » Pierre a répondu : « Tu es le Christ. » Il leur ordonna de ne parler de lui à personne"
+        },
+        {
+          "usfm": [
+            "MRK.8.33"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:33",
+          "human_text": "Mais lui, se retournant et voyant ses disciples, réprimanda Pierre, et dit : « Écarte-toi de moi, Satan ! Car tu as en vue non les choses de Dieu, mais les choses des hommes. »"
+        }
+      ],
+      "tag": [
+        "esperance"
+      ]
+    },
+    {
+      "content": "transmettons les paroles des Écritures. n’ayons pas honte.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.38"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:38",
+          "human_text": "Car quiconque aura honte de moi et de mes paroles dans cette génération adultère et pécheresse, le Fils de l'homme aussi aura honte de lui quand il viendra dans la gloire de son Père avec les saints anges. »"
+        }
+      ],
+      "tag": [
+        "paroles",
+        "courage"
+      ]
+    },
+    {
+      "content": "la richesse ne vaut rien.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.36",
+            "MRK.8.37"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:36-37",
+          "human_text": "En effet, que sert à un homme de gagner le monde entier et de perdre sa vie ? Car que donnera l'homme en échange de sa vie ?"
+        }
+      ],
+      "tag": [
+        "richesse",
+        "mort"
+      ]
+    },
+    {
+      "content": "suivons Jesus meme si nous mourrons.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.35"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:35",
+          "human_text": "En effet, quiconque veut sauver sa vie la perdra ; et quiconque perdra sa vie à cause de moi et de la Bonne Nouvelle la sauvera"
+        }
+      ],
+      "tag": [
+        "mort",
+        "discipulat"
+      ]
+    },
+    {
+      "content": "porter sa croix = suivre et vivre comme Jesus.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.34"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:34",
+          "human_text": "Il appela la foule avec ses disciples et leur dit : « Que celui qui veut venir après moi renonce à lui-même, se charge de sa croix et me suive"
+        }
+      ],
+      "tag": [
+        "discipulat",
+        "courage"
+      ]
+    },
+    {
+      "content": "si Jesus la fait une fois, Il peux le refaire.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.17",
+            "MRK.8.18",
+            "MRK.8.19",
+            "MRK.8.20",
+            "MRK.8.21"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:17-21",
+          "human_text": "Jésus, s'en apercevant, leur dit : « Pourquoi pensez-vous que c'est parce que vous n'avez pas de pain ? Ne voyez-vous pas encore, ne comprenez-vous pas ? Votre cœur est-il encore endurci ? Ayant des yeux, ne voyez-vous pas ? Vous avez des oreilles, n'entendez-vous pas ? Ne vous souvenez-vous pas ? Quand j'ai rompu les cinq pains pour les cinq mille, combien de paniers pleins de morceaux avez-vous emportés ? » Ils lui ont dit : « Douze. » « Lorsque les sept pains ont nourri les quatre mille personnes, combien de paniers pleins de morceaux avez-vous emportés ? » Ils lui ont dit : « Sept. » Il leur demanda : « Vous ne comprenez pas encore ? »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "perseverance"
+      ]
+    },
+    {
+      "content": "croyons juste.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.8.12"
+          ],
+          "version_id": 133,
+          "human": "Marc 8:12",
+          "human_text": "Il soupira profondément en son esprit et dit : « Pourquoi cette génération cherche-t-elle un signe ? En vérité, je vous le dis, aucun signe ne sera donné à cette génération. »"
+        }
+      ],
+      "tag": [
+        "discernement"
+      ]
+    },
+    {
+      "content": "« enfants » -> peuples d’Israel.\n« chiens » -> non-juifs.\nJesus nous le dit ici, la parole de Dieu n’est pas que pour le peuples d’Israel, mais la Terre entière.",
+      "color": "ffcaf7",
+      "references": [
+        {
+          "usfm": [
+            "MRK.7.27",
+            "MRK.7.28"
+          ],
+          "version_id": 133,
+          "human": "Marc 7:27-28",
+          "human_text": "Mais Jésus lui dit : « Que les enfants soient rassasiés les premiers, car il ne convient pas de prendre le pain des enfants et de le jeter aux chiens. » Mais elle lui répondit : « Oui, Seigneur. Pourtant, même les chiens sous la table mangent les miettes des enfants. »"
+        }
+      ],
+      "tag": []
+    },
+    {
+      "content": "voilà ce qui est impure.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.7.18",
+            "MRK.7.19",
+            "MRK.7.20",
+            "MRK.7.21",
+            "MRK.7.22",
+            "MRK.7.23"
+          ],
+          "version_id": 133,
+          "human": "Marc 7:18-23",
+          "human_text": "Il leur dit : Vous aussi, êtes-vous sans intelligence ? Ne comprenez-vous pas que ce qui entre du dehors dans l'homme ne peut pas le souiller, parce que cela ne va pas dans son cœur, mais dans son estomac, puis dans les latrines, ce qui rend tous les aliments purs ? » Il répondit : « Ce qui sort de l'homme, voilà ce qui souille l'homme Car c'est du dedans, du cœur de l'homme, que sortent les mauvaises pensées, les adultères, les péchés sexuels, les meurtres, les vols, les convoitises, la méchanceté, la tromperie, les désirs lubriques, le mauvais œil, le blasphème, l'orgueil et la folie Toutes ces mauvaises choses viennent du dedans et souillent l'homme. »"
+        }
+      ],
+      "tag": [
+        "sexualite",
+        "orgueil"
+      ]
+    },
+    {
+      "content": "enseignons la parole de Dieu, et non celle de l’Homme.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "MRK.7.6",
+            "MRK.7.7"
+          ],
+          "version_id": 133,
+          "human": "Marc 7:6-7",
+          "human_text": "Il leur répondit : « Ésaïe a bien prophétisé sur vous, hypocrites, comme il est écrit, Ce peuple m'honore de ses lèvres, mais leur cœur est loin de moi Ils m'adorent en vain, enseignant comme doctrines les commandements des hommes »"
+        }
+      ],
+      "tag": [
+        "hypocrisie",
+        "paroles"
+      ]
+    },
+    {
       "content": "ce geste a pour but de dire que les Disciples ne leurs doivent rien, même pas la poussière des scandales.",
       "color": null,
       "references": [
@@ -1968,12 +4313,56 @@
       ]
     }
   ],
-  "last_updated": "2025-11-12T01:47:43.262396+00:00",
-  "last_update": "2025-09-24T21:30:59.346000+00:00",
-  "total_moments": 106,
+  "last_updated": "2025-11-12T18:48:47.644073+00:00",
+  "last_update": "2025-11-07T00:15:57.118000+00:00",
+  "total_moments": 227,
   "colors_used": [
     "beffaa",
     "ff95ef",
-    "ffc66f"
-  ]
+    "ffc66f",
+    "ffcaf7",
+    "fffeca"
+  ],
+  "last_tag_update": "2025-11-12T18:54:45.251371+00:00",
+  "tags_used": [
+    "amitie",
+    "autorite",
+    "avenir",
+    "colere",
+    "conflit",
+    "convoitise",
+    "courage",
+    "creation",
+    "discernement",
+    "discipline",
+    "discipulat",
+    "esperance",
+    "famille",
+    "gratitude",
+    "humilite",
+    "hypocrisie",
+    "idolatrie",
+    "ivresse",
+    "jalousie",
+    "justice",
+    "maladie",
+    "mariage",
+    "mensonge",
+    "mort",
+    "obeissance",
+    "orgueil",
+    "pardon",
+    "paroles",
+    "pauvres",
+    "persecution",
+    "perseverance",
+    "priere",
+    "richesse",
+    "service",
+    "sexualite",
+    "solitude",
+    "tentation",
+    "travail"
+  ],
+  "total_tags_available": 43
 }
