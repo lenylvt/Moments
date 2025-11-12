@@ -24,6 +24,8 @@ on:
 jobs:
   send-verse:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read  # Only needs read access to checkout code
     
     steps:
     - name: Checkout repository
