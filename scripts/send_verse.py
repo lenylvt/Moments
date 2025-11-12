@@ -43,7 +43,7 @@ def format_verse_message(verse: dict) -> tuple[str, str]:
         verse_text = ref.get('human_text', '')
     
     # Build title and message
-    title = f"📖 {reference_text}" if reference_text else "📖 Verset du moment"
+    title = f"{reference_text}" if reference_text else "📖 Verset du moment"
     
     message_parts = []
     if verse_text:
