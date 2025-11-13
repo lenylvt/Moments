@@ -1,6 +1,76 @@
 {
   "moments": [
     {
+      "content": "donnant notre vie.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.23.46"
+          ],
+          "version_id": 133,
+          "human": "Luc 23:46",
+          "human_text": "Jésus, poussant un grand cri, dit : « Père, entre tes mains je remets mon esprit. » Ayant dit cela, il rendit le dernier soupir"
+        }
+      ],
+      "tag": [
+        "humilite",
+        "mariage"
+      ]
+    },
+    {
+      "content": "",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "LUK.23.46"
+          ],
+          "version_id": 133,
+          "human": "Luc 23:46",
+          "human_text": "Jésus, poussant un grand cri, dit : « Père, entre tes mains je remets mon esprit. » Ayant dit cela, il rendit le dernier soupir"
+        }
+      ],
+      "tag": [
+        "mort",
+        "esperance"
+      ]
+    },
+    {
+      "content": "paradis.",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.23.43"
+          ],
+          "version_id": 133,
+          "human": "Luc 23:43",
+          "human_text": "Jésus lui dit : « Je te le dis en vérité, aujourd'hui tu seras avec moi dans le paradis. »"
+        }
+      ],
+      "tag": [
+        "esperance",
+        "mort"
+      ]
+    },
+    {
+      "content": "l’influence…",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.23.23",
+            "LUK.23.24"
+          ],
+          "version_id": 133,
+          "human": "Luc 23:23-24",
+          "human_text": "Mais ils insistaient à voix haute, demandant qu'il soit crucifié. Leurs voix et celles des principaux sacrificateurs l'emportèrent Pilate décréta que ce qu'ils demandaient devait être fait"
+        }
+      ],
+      "tag": []
+    },
+    {
       "content": "laissons Dieu faire ce qui est bon pour nous.",
       "color": null,
       "references": [
@@ -135,24 +205,6 @@
     {
       "content": "celui qui veux être au dessus des autres, on lui donnera la dernière place.",
       "color": null,
-      "references": [
-        {
-          "usfm": [
-            "LUK.18.14"
-          ],
-          "version_id": 133,
-          "human": "Luc 18:14",
-          "human_text": "Je vous le dis, celui-ci est descendu chez lui justifié plutôt que l'autre ; car quiconque s'élève sera abaissé, mais celui qui s'abaisse sera élevé. »"
-        }
-      ],
-      "tag": [
-        "humilite",
-        "orgueil"
-      ]
-    },
-    {
-      "content": "",
-      "color": "fffeca",
       "references": [
         {
           "usfm": [
@@ -697,7 +749,9 @@
           "human_text": "Il lui dit : « Qu'est-ce qui est écrit dans la loi ? Comment la lis-tu ? » Il répondit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de toute ta force et de toute ta pensée, et ton prochain comme toi-même. »"
         }
       ],
-      "tag": []
+      "tag": [
+        "amitie"
+      ]
     },
     {
       "content": "Amen 🙏",
@@ -712,7 +766,9 @@
           "human_text": "Cependant, ne vous réjouissez pas de ce que les esprits vous sont soumis, mais réjouissez-vous de ce que vos noms sont inscrits dans les cieux. »"
         }
       ],
-      "tag": []
+      "tag": [
+        "esperance"
+      ]
     },
     {
       "content": "Sodome = ville dominé par le mal.",
@@ -902,26 +958,9 @@
           "human_text": "C'est pourquoi je ne me suis même pas cru digne de venir te voir ; mais dis la parole, et mon serviteur sera guéri"
         }
       ],
-      "tag": []
-    },
-    {
-      "content": "",
-      "color": "fffeca",
-      "references": [
-        {
-          "usfm": [
-            "LUK.6.47",
-            "LUK.6.48",
-            "LUK.6.49"
-          ],
-          "version_id": 133,
-          "human": "Luc 6:47-49",
-          "human_text": "Quiconque vient à moi, entend mes paroles et les met en pratique, je vous montrerai à qui il est semblable Il est semblable à un homme qui construit une maison, qui a creusé et approfondi, et qui a posé le fondement sur le roc. Quand il y a eu une inondation, le torrent s'est jeté contre cette maison et n'a pu l'ébranler, parce qu'elle était fondée sur le roc Mais celui qui entend et ne fait pas, est semblable à un homme qui a bâti sur la terre une maison sans fondement, contre laquelle le torrent s'est brisé, et aussitôt elle est tombée ; et la ruine de cette maison a été grande. »"
-        }
-      ],
       "tag": [
-        "obeissance",
-        "discernement"
+        "maladie",
+        "esperance"
       ]
     },
     {
@@ -1068,24 +1107,6 @@
       "tag": [
         "esperance",
         "perseverance"
-      ]
-    },
-    {
-      "content": "",
-      "color": "fffeca",
-      "references": [
-        {
-          "usfm": [
-            "ROM.1.17"
-          ],
-          "version_id": 133,
-          "human": "Romains 1:17",
-          "human_text": "Car en elle est révélée la justice de Dieu, de foi à foi. Comme il est écrit : « Le juste vivra par la foi. »"
-        }
-      ],
-      "tag": [
-        "justice",
-        "esperance"
       ]
     },
     {
@@ -1879,24 +1900,6 @@
       ]
     },
     {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "MRK.12.17"
-          ],
-          "version_id": 133,
-          "human": "Marc 12:17",
-          "human_text": "Jésus leur répondit : « Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. » Ils s'émerveillaient beaucoup devant lui"
-        }
-      ],
-      "tag": [
-        "autorite",
-        "discernement"
-      ]
-    },
-    {
       "content": "par cette parole, Jesus nous dit de respecter les lois, les obligation civile et autre tout en donnant à Dieu notre temps, la foi, l’amour, le respect.",
       "color": null,
       "references": [
@@ -2048,24 +2051,6 @@
       "tag": [
         "pardon",
         "persecution"
-      ]
-    },
-    {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "LUK.23.34"
-          ],
-          "version_id": 133,
-          "human": "Luc 23:34",
-          "human_text": "Jésus dit : « Père, pardonne-leur, car ils ne savent pas ce qu'ils font. » Ils se partagèrent ses vêtements en tirant au sort"
-        }
-      ],
-      "tag": [
-        "pardon",
-        "humilite"
       ]
     },
     {
@@ -2301,7 +2286,10 @@
           "human_text": "Mais Jésus lui dit : « Que les enfants soient rassasiés les premiers, car il ne convient pas de prendre le pain des enfants et de le jeter aux chiens. » Mais elle lui répondit : « Oui, Seigneur. Pourtant, même les chiens sous la table mangent les miettes des enfants. »"
         }
       ],
-      "tag": []
+      "tag": [
+        "paroles",
+        "justice"
+      ]
     },
     {
       "content": "voilà ce qui est impure.",
@@ -2602,23 +2590,6 @@
       ]
     },
     {
-      "content": "",
-      "color": "ff95ef",
-      "references": [
-        {
-          "usfm": [
-            "MRK.2.17"
-          ],
-          "version_id": 133,
-          "human": "Marc 2:17",
-          "human_text": "Ayant entendu cela, Jésus leur dit : « Ceux qui sont en bonne santé n'ont pas besoin de médecin, mais ceux qui sont malades. Je suis venu non pas pour appeler les justes, mais les pécheurs à la repentance. »"
-        }
-      ],
-      "tag": [
-        "maladie"
-      ]
-    },
-    {
       "content": "wow. aidons ceux dans le besoin et pas ceux qui sont déjà bien.",
       "color": null,
       "references": [
@@ -2701,24 +2672,6 @@
           "version_id": 133,
           "human": "Psaumes 37:24",
           "human_text": "S'il trébuche, il ne tombera pas, car Yahvé le retient de sa main"
-        }
-      ],
-      "tag": [
-        "courage",
-        "esperance"
-      ]
-    },
-    {
-      "content": "Amen 🙏",
-      "color": null,
-      "references": [
-        {
-          "usfm": [
-            "ISA.41.10"
-          ],
-          "version_id": 133,
-          "human": "Ésaïe 41:10",
-          "human_text": "N'ayez pas peur, car je suis avec vous. Ne soyez pas consternés, car je suis votre Dieu. Je vais te renforcer. Oui, je vais vous aider. Oui, je te soutiendrai avec la main droite de ma justice"
         }
       ],
       "tag": [
@@ -4313,9 +4266,9 @@
       ]
     }
   ],
-  "last_updated": "2025-11-12T18:48:47.644073+00:00",
-  "last_update": "2025-11-07T00:15:57.118000+00:00",
-  "total_moments": 227,
+  "last_updated": "2025-11-13T01:49:17.041436+00:00",
+  "last_update": "2025-11-12T22:51:10.176000+00:00",
+  "total_moments": 224,
   "colors_used": [
     "beffaa",
     "ff95ef",
@@ -4323,7 +4276,7 @@
     "ffcaf7",
     "fffeca"
   ],
-  "last_tag_update": "2025-11-12T18:54:45.251371+00:00",
+  "last_tag_update": "2025-11-13T01:49:34.768408+00:00",
   "tags_used": [
     "amitie",
     "autorite",
