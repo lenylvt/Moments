@@ -1,6 +1,68 @@
 {
   "moments": [
     {
+      "content": "🙏",
+      "color": null,
+      "references": [
+        {
+          "usfm": [
+            "LUK.24.32"
+          ],
+          "version_id": 133,
+          "human": "Luc 24:32",
+          "human_text": "Ils se dirent les uns aux autres : « Notre cœur ne brûlait-il pas au-dedans de nous pendant qu'il nous parlait en chemin et qu'il nous ouvrait les Écritures ? »"
+        }
+      ],
+      "tag": [
+        "priere",
+        "esperance"
+      ]
+    },
+    {
+      "content": "",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "MRK.15.34"
+          ],
+          "version_id": 133,
+          "human": "Marc 15:34",
+          "human_text": "A la neuvième heure, Jésus s'écria d'une voix forte : « Eloi, Eloi, lama sabachthani ? », ce qui revient à dire : « Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? »"
+        },
+        {
+          "usfm": [
+            "MRK.15.39"
+          ],
+          "version_id": 133,
+          "human": "Marc 15:39",
+          "human_text": "Le centurion, qui se tenait en face de lui, voyant qu'il avait poussé un tel cri et rendu le dernier soupir, dit : « Vraiment, cet homme était le Fils de Dieu ! »"
+        }
+      ],
+      "tag": [
+        "solitude",
+        "esperance"
+      ]
+    },
+    {
+      "content": "soyons heureux.",
+      "color": "fffeca",
+      "references": [
+        {
+          "usfm": [
+            "PHP.4.4"
+          ],
+          "version_id": 133,
+          "human": "Philippiens 4:4",
+          "human_text": "Réjouissez-vous toujours dans le Seigneur ! Je dirai encore : « Réjouissez-vous ! »"
+        }
+      ],
+      "tag": [
+        "gratitude",
+        "esperance"
+      ]
+    },
+    {
       "content": "donnant notre vie.",
       "color": null,
       "references": [
@@ -140,23 +202,6 @@
       "tag": [
         "discernement",
         "courage"
-      ]
-    },
-    {
-      "content": "",
-      "color": "fffeca",
-      "references": [
-        {
-          "usfm": [
-            "LUK.18.27"
-          ],
-          "version_id": 133,
-          "human": "Luc 18:27",
-          "human_text": "Mais il a dit : « Ce qui est impossible aux hommes est possible à Dieu. »"
-        }
-      ],
-      "tag": [
-        "esperance"
       ]
     },
     {
@@ -4266,9 +4311,9 @@
       ]
     }
   ],
-  "last_updated": "2025-11-13T01:49:17.041436+00:00",
-  "last_update": "2025-11-12T22:51:10.176000+00:00",
-  "total_moments": 224,
+  "last_updated": "2025-11-14T01:48:18.573569+00:00",
+  "last_update": "2025-11-13T22:54:38.064000+00:00",
+  "total_moments": 226,
   "colors_used": [
     "beffaa",
     "ff95ef",
@@ -4276,7 +4321,7 @@
     "ffcaf7",
     "fffeca"
   ],
-  "last_tag_update": "2025-11-13T01:49:34.768408+00:00",
+  "last_tag_update": "2025-11-14T01:48:31.952592+00:00",
   "tags_used": [
     "amitie",
     "autorite",
