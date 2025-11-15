@@ -81,24 +81,6 @@
       ]
     },
     {
-      "content": "",
-      "color": "fffeca",
-      "references": [
-        {
-          "usfm": [
-            "LUK.23.46"
-          ],
-          "version_id": 133,
-          "human": "Luc 23:46",
-          "human_text": "Jésus, poussant un grand cri, dit : « Père, entre tes mains je remets mon esprit. » Ayant dit cela, il rendit le dernier soupir"
-        }
-      ],
-      "tag": [
-        "mort",
-        "esperance"
-      ]
-    },
-    {
       "content": "paradis.",
       "color": null,
       "references": [
@@ -1299,24 +1281,6 @@
       "tag": [
         "service",
         "idolatrie"
-      ]
-    },
-    {
-      "content": "🙏",
-      "color": null,
-      "references": [
-        {
-          "usfm": [
-            "LUK.3.22"
-          ],
-          "version_id": 133,
-          "human": "Luc 3:22",
-          "human_text": "et le Saint-Esprit descendit sur lui sous une forme corporelle, comme une colombe ; et une voix sortit du ciel, disant : « Tu es mon Fils bien-aimé. En toi j'ai mis toute mon affection. »"
-        }
-      ],
-      "tag": [
-        "priere",
-        "esperance"
       ]
     },
     {
@@ -4311,56 +4275,14 @@
       ]
     }
   ],
-  "last_updated": "2025-11-14T01:48:18.573569+00:00",
+  "last_updated": "2025-11-15T01:44:15.730074+00:00",
   "last_update": "2025-11-13T22:54:38.064000+00:00",
-  "total_moments": 226,
+  "total_moments": 224,
   "colors_used": [
     "beffaa",
     "ff95ef",
     "ffc66f",
     "ffcaf7",
     "fffeca"
-  ],
-  "last_tag_update": "2025-11-14T01:48:31.952592+00:00",
-  "tags_used": [
-    "amitie",
-    "autorite",
-    "avenir",
-    "colere",
-    "conflit",
-    "convoitise",
-    "courage",
-    "creation",
-    "discernement",
-    "discipline",
-    "discipulat",
-    "esperance",
-    "famille",
-    "gratitude",
-    "humilite",
-    "hypocrisie",
-    "idolatrie",
-    "ivresse",
-    "jalousie",
-    "justice",
-    "maladie",
-    "mariage",
-    "mensonge",
-    "mort",
-    "obeissance",
-    "orgueil",
-    "pardon",
-    "paroles",
-    "pauvres",
-    "persecution",
-    "perseverance",
-    "priere",
-    "richesse",
-    "service",
-    "sexualite",
-    "solitude",
-    "tentation",
-    "travail"
-  ],
-  "total_tags_available": 43
+  ]
 }
